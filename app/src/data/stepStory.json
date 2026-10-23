@@ -1,0 +1,90 @@
+{
+ "source": "backend/data/results.json and plots.geojson (ReGrow pipeline)",
+ "story": {
+  "id": "plot-r41c21",
+  "name": "Salur slope",
+  "checkins": [
+   {
+    "period": "2021Q4",
+    "passed": true
+   },
+   {
+    "period": "2022Q1",
+    "passed": true
+   },
+   {
+    "period": "2022Q2",
+    "passed": true
+   },
+   {
+    "period": "2022Q3",
+    "passed": true
+   }
+  ],
+  "recovery2026": 0.7499,
+  "payouts": [
+   {
+    "bps": 1500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 3000,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 3500,
+    "fractionBps": 10000
+   }
+  ]
+ },
+ "partial": {
+  "id": "plot-r42c36",
+  "name": "Güzelyalı slope",
+  "payouts": [
+   {
+    "bps": 1500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 500,
+    "fractionBps": 10000
+   },
+   {
+    "bps": 3000,
+    "fractionBps": 8743
+   },
+   {
+    "bps": 3500,
+    "fractionBps": 8623
+   }
+  ]
+ }
+}

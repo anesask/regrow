@@ -1,0 +1,56 @@
+[project]
+name = "regrow-backend"
+version = "0.1.0"
+description = "ReGrow API (oracle, data, photo check) and satellite pipeline"
+authors = [
+    { name = "anesask" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "eth-account>=0.14.0",
+    "exifread>=3.5.1",
+    "fastapi[standard]>=0.143.3",
+    "httpx>=0.28.1",
+    "imagehash>=4.3.2",
+    "openai>=3.33.0",
+    "pillow>=13.0.0",
+    "pydantic-settings>=2.16.0",
+    "python-multipart>=0.0.32",
+    "web3>=8.0.0",
+]
+
+[project.scripts]
+regrow-api = "regrow_api:main"
+
+[tool.uv.build-backend]
+module-name = "regrow_api"
+
+[build-system]
+requires = ["uv_build>=0.12.15,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "ruff>=0.17.1",
+]
+pipeline = [
+    "geopandas>=1.2.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "odc-stac>=0.5.3",
+    "planetary-computer>=1.0.0",
+    "pyproj>=3.8.0",
+    "pystac-client>=0.9.0",
+    "rioxarray>=0.23.0",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "shapely>=2.2.0",
+    "xarray>=2026.9.0",
+]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint.isort]
+known-local-folder = ["common"]

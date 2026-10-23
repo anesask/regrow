@@ -1,0 +1,7 @@
+**/node_modules
+app/dist
+backend
+contracts
+docs
+.git
+**/.env

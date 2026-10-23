@@ -1,0 +1,22 @@
+# For a server where Traefik already owns ports 80/443 (external network "proxy", entrypoint websecure,
+# cert resolver letsencrypt). Traefik terminates HTTPS; Caddy serves plain HTTP behind it.
+#   docker compose -f docker-compose.yml -f compose.traefik.yaml up -d --build
+services:
+  web:
+    ports: !reset []
+    environment:
+      CADDY_SITE: ":80"
+      CADDY_WWW: http://www.${DOMAIN}
+    networks: [default, proxy]
+    labels:
+      traefik.enable: "true"
+      traefik.docker.network: proxy
+      traefik.http.routers.regrow.rule: Host(`${DOMAIN}`) || Host(`www.${DOMAIN}`)
+      traefik.http.routers.regrow.entrypoints: websecure
+      traefik.http.routers.regrow.tls: "true"
+      traefik.http.routers.regrow.tls.certresolver: letsencrypt
+      traefik.http.services.regrow.loadbalancer.server.port: "80"
+
+networks:
+  proxy:
+    external: true

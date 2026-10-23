@@ -1,0 +1,18 @@
+{
+ "product": "MODIS MCD64A1 v6.1 burned area (500 m), Microsoft Planetary Computer",
+ "items": [
+  "MCD64A1.A2021182.h20v05.061.2021309114529",
+  "MCD64A1.A2021213.h20v05.061.2021309115557"
+ ],
+ "doyWindow": [
+  205,
+  230
+ ],
+ "oursHa": 59075,
+ "modisHa": 58525,
+ "referenceHa": 56663,
+ "iou": 0.892,
+ "oursCoveredByModis": 0.939,
+ "modisCoveredByOurs": 0.947,
+ "note": "500 m comparison; small differences at the perimeter are expected from resolution alone"
+}

@@ -1,0 +1,29 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# node
+node_modules/
+dist/
+
+# python
+__pycache__/
+.venv/
+*.pyc
+.pytest_cache/
+backend/cache/
+
+# foundry
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+
+# misc
+.DS_Store
+*.log
+contracts/lib/
+
+# demo video work dir (raw takes, renders)
+video/
+

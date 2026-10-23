@@ -1,0 +1,1032 @@
+{
+ "root": "0x0948e3d67932efaf079652ea0730da65b24022acc4c6557b0c5294de7a04fa3c",
+ "cid": "bafkreiggosa2ohgv5jpxv6yjckzpetzzunz4irauylriptn4slbje4zcsi",
+ "bundle": "evidence-bundle.json.gz",
+ "bundleBytes": 31335,
+ "leafEncoding": "keccak256(keccak256(abi.encode(uint8 kind,uint256 plotId,uint8 idx,int32 scoreBps,bytes32 evidenceHash)))",
+ "leaves": [
+  {
+   "kind": 0,
+   "plot": "plot-r28c27",
+   "plotId": 3,
+   "idx": 4,
+   "scoreBps": 10000,
+   "evidenceHash": "0x0d5ca0820a112076bbd0918b84a49c838ba1505207963c320d9eae27494f4a31",
+   "file": "plot-r28c27-m4.json",
+   "leaf": "0x02ba95d2a2ff19e82812c6bb9649c7a339ace110e876577ae47c59f4e4870b61",
+   "proof": [
+    "0x03c46d1a6db0e74de36c29a9adde076e283e71e36f4e377b271afe55a8d94358",
+    "0xa83934172dcedaaad060b43996288805493419db67cee2132f52f6dbcecac59d",
+    "0x5214f44453044ecd7f8f8517715eed773e606ac848895b8f2ab2d290fa27e00a",
+    "0xb7bbde8e114c9c397a6615df470799b31413473b58efd36fe9e80c39fa0afe94",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r42c36",
+   "plotId": 4,
+   "idx": 1,
+   "scoreBps": 10000,
+   "evidenceHash": "0x24e3b07f110ae419733db95ad28129dbac3767c0e3993d024be64da50c2e446c",
+   "file": "plot-r42c36-m1.json",
+   "leaf": "0x03c46d1a6db0e74de36c29a9adde076e283e71e36f4e377b271afe55a8d94358",
+   "proof": [
+    "0x02ba95d2a2ff19e82812c6bb9649c7a339ace110e876577ae47c59f4e4870b61",
+    "0xa83934172dcedaaad060b43996288805493419db67cee2132f52f6dbcecac59d",
+    "0x5214f44453044ecd7f8f8517715eed773e606ac848895b8f2ab2d290fa27e00a",
+    "0xb7bbde8e114c9c397a6615df470799b31413473b58efd36fe9e80c39fa0afe94",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r22c22",
+   "plotId": 7,
+   "idx": 2,
+   "scoreBps": 0,
+   "evidenceHash": "0x4bcf8eb61ea218cf2b040c036ab3aa710595af26f85e76f0b24ab7cb63c99e80",
+   "file": "plot-r22c22-m2.json",
+   "leaf": "0x045c80c472175378d32af1204754f5d54ae965e475d00357136090daec368f69",
+   "proof": [
+    "0x16ef5a294896ba07f28cd38bc6bb7d227d9beca785461b91b4b0da5560fa7463",
+    "0xd67a87c849f4fb5e1e5874a8d6ea0d6afb95229b9a650e533a6111ec835ca5f7",
+    "0x5214f44453044ecd7f8f8517715eed773e606ac848895b8f2ab2d290fa27e00a",
+    "0xb7bbde8e114c9c397a6615df470799b31413473b58efd36fe9e80c39fa0afe94",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r24c26",
+   "plotId": 6,
+   "idx": 1,
+   "scoreBps": 10000,
+   "evidenceHash": "0xa76d5278fbf114a2ac79e6cdd3f65fb41e2eabf7f09bfe186670a7173f91ca81",
+   "file": "plot-r24c26-m1.json",
+   "leaf": "0x16ef5a294896ba07f28cd38bc6bb7d227d9beca785461b91b4b0da5560fa7463",
+   "proof": [
+    "0x045c80c472175378d32af1204754f5d54ae965e475d00357136090daec368f69",
+    "0xd67a87c849f4fb5e1e5874a8d6ea0d6afb95229b9a650e533a6111ec835ca5f7",
+    "0x5214f44453044ecd7f8f8517715eed773e606ac848895b8f2ab2d290fa27e00a",
+    "0xb7bbde8e114c9c397a6615df470799b31413473b58efd36fe9e80c39fa0afe94",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r59c40",
+   "plotId": 2,
+   "idx": 4,
+   "scoreBps": 10000,
+   "evidenceHash": "0x2480420117b770f43e80dc665d76144840105b246e8ad0c71d7aafc0a14648dd",
+   "file": "plot-r59c40-m4.json",
+   "leaf": "0x178f4f612e27a4255fa1dc16188784ed9dd05c990d56b19c9540370c046e332d",
+   "proof": [
+    "0x1833390d33f6b0e60a5f24bbd0d831f8b0fba4fae34d87bc9f1543fcbc6f7f14",
+    "0xca2dc52ab5e17846caeab49c0008f47e09d4440a91af31c031f6506ff5c85644",
+    "0x8e852d1b52886832715fdb6c7059b62ba5a24ff85defad0a53db65f7abe9d479",
+    "0xb7bbde8e114c9c397a6615df470799b31413473b58efd36fe9e80c39fa0afe94",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 1,
+   "plot": "plot-r26c32",
+   "plotId": 0,
+   "idx": 0,
+   "scoreBps": 0,
+   "evidenceHash": "0xb3b9dbb048372a6716fbe581f4049363d36316c5e69f19ec925ed23c9ffde5ab",
+   "file": "plot-r26c32-disturbance.json",
+   "leaf": "0x1833390d33f6b0e60a5f24bbd0d831f8b0fba4fae34d87bc9f1543fcbc6f7f14",
+   "proof": [
+    "0x178f4f612e27a4255fa1dc16188784ed9dd05c990d56b19c9540370c046e332d",
+    "0xca2dc52ab5e17846caeab49c0008f47e09d4440a91af31c031f6506ff5c85644",
+    "0x8e852d1b52886832715fdb6c7059b62ba5a24ff85defad0a53db65f7abe9d479",
+    "0xb7bbde8e114c9c397a6615df470799b31413473b58efd36fe9e80c39fa0afe94",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r28c27",
+   "plotId": 3,
+   "idx": 3,
+   "scoreBps": 10000,
+   "evidenceHash": "0x2caa02f0836820eac7520bd95341bbb58ff6c9afdd322414ac78ca7fab881fd8",
+   "file": "plot-r28c27-m3.json",
+   "leaf": "0x1d2cf01f1b7739ba3f05a01b40082d637317edef6f653fe0eb323c882d645329",
+   "proof": [
+    "0x20ad1e40136149b96c2345569525bd619a171eaacd43ffef81e9d2f7fea6d2d3",
+    "0x6db882418c4e9c21624e9583af54c1db39fa0e6cb6515b4469d53d1d1601d973",
+    "0x8e852d1b52886832715fdb6c7059b62ba5a24ff85defad0a53db65f7abe9d479",
+    "0xb7bbde8e114c9c397a6615df470799b31413473b58efd36fe9e80c39fa0afe94",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r42c36",
+   "plotId": 4,
+   "idx": 5,
+   "scoreBps": 2623,
+   "evidenceHash": "0x416c8a5c330d40c96bcb2fa3526fbfa4f60312f6ada6802e19a632d24516eccc",
+   "file": "plot-r42c36-m5.json",
+   "leaf": "0x20ad1e40136149b96c2345569525bd619a171eaacd43ffef81e9d2f7fea6d2d3",
+   "proof": [
+    "0x1d2cf01f1b7739ba3f05a01b40082d637317edef6f653fe0eb323c882d645329",
+    "0x6db882418c4e9c21624e9583af54c1db39fa0e6cb6515b4469d53d1d1601d973",
+    "0x8e852d1b52886832715fdb6c7059b62ba5a24ff85defad0a53db65f7abe9d479",
+    "0xb7bbde8e114c9c397a6615df470799b31413473b58efd36fe9e80c39fa0afe94",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r24c26",
+   "plotId": 6,
+   "idx": 5,
+   "scoreBps": -4321,
+   "evidenceHash": "0x01c2a6943baf02887df3a726541ceda458964ebae2cb74bc51fd7f202781ad86",
+   "file": "plot-r24c26-m5.json",
+   "leaf": "0x20f6d2290859308fc9168ca9f940e23b19e4364a3f81d1465de5710be6d8d9cb",
+   "proof": [
+    "0x25b079961da636c986fa72c796536219dbc44f501bee1f80504f0139ee6e8f30",
+    "0xdca050c130faee20f2e9444c5bf5eab51f0499b3028ec8d8e9fe36916287352c",
+    "0xb37201f8cf46b589176c76eee820a7963c32f273e62f684feae00a0ead4741a9",
+    "0x1103c1ed7b179f43d7f59932aec08563a1547860894472aa32d35fd2d034781f",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r24c26",
+   "plotId": 6,
+   "idx": 4,
+   "scoreBps": 10000,
+   "evidenceHash": "0x37a93d5901e3299e53f1c8fce5f5ed006f1896e52076c37d8895d5de70ef1576",
+   "file": "plot-r24c26-m4.json",
+   "leaf": "0x25b079961da636c986fa72c796536219dbc44f501bee1f80504f0139ee6e8f30",
+   "proof": [
+    "0x20f6d2290859308fc9168ca9f940e23b19e4364a3f81d1465de5710be6d8d9cb",
+    "0xdca050c130faee20f2e9444c5bf5eab51f0499b3028ec8d8e9fe36916287352c",
+    "0xb37201f8cf46b589176c76eee820a7963c32f273e62f684feae00a0ead4741a9",
+    "0x1103c1ed7b179f43d7f59932aec08563a1547860894472aa32d35fd2d034781f",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r59c40",
+   "plotId": 2,
+   "idx": 0,
+   "scoreBps": 10000,
+   "evidenceHash": "0x31931fa6f2a79b5febf973fed2e2b1cd7ee5d28e90fc0523a5a05b48f1595beb",
+   "file": "plot-r59c40-m0.json",
+   "leaf": "0x2a86547dc02f3224e075d17be02bd3cbe07d58556e46e4f860e91194def35e38",
+   "proof": [
+    "0x2ad3563f48527ec3d1ab9bee9118976fabafab3022c46ebd2253721ddbb1fb32",
+    "0x3b7bb7740a3da48d1d20fe9b9d5aba95449d18c0ce39d99ee552c7db982791db",
+    "0xb37201f8cf46b589176c76eee820a7963c32f273e62f684feae00a0ead4741a9",
+    "0x1103c1ed7b179f43d7f59932aec08563a1547860894472aa32d35fd2d034781f",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r24c26",
+   "plotId": 6,
+   "idx": 2,
+   "scoreBps": 0,
+   "evidenceHash": "0x79256adced99ff6329eebff4b7671dd42a6895b88a602596bfa9eb4bcb75375c",
+   "file": "plot-r24c26-m2.json",
+   "leaf": "0x2ad3563f48527ec3d1ab9bee9118976fabafab3022c46ebd2253721ddbb1fb32",
+   "proof": [
+    "0x2a86547dc02f3224e075d17be02bd3cbe07d58556e46e4f860e91194def35e38",
+    "0x3b7bb7740a3da48d1d20fe9b9d5aba95449d18c0ce39d99ee552c7db982791db",
+    "0xb37201f8cf46b589176c76eee820a7963c32f273e62f684feae00a0ead4741a9",
+    "0x1103c1ed7b179f43d7f59932aec08563a1547860894472aa32d35fd2d034781f",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r42c36",
+   "plotId": 4,
+   "idx": 4,
+   "scoreBps": 10000,
+   "evidenceHash": "0xb29456c47086dd243296cdb63000a98432b6418e6dcb8d47083015dd80ab031e",
+   "file": "plot-r42c36-m4.json",
+   "leaf": "0x315b91abfad7bc2feabc7f3dd11da63fdb06d8898ec47151b8ed0145aaef5186",
+   "proof": [
+    "0x39a13675b19a1727368f686edac97b52023f7e4e3fc562e96fd23622c790e4fc",
+    "0x54d0beb96d87eb59b519868a2a257af3a49a762876376fed2ce7f2e2d7a120b3",
+    "0x26955c22cfd225cefaad192a10cc71f174f0d999e4dac92cdfb916a4cf79350e",
+    "0x1103c1ed7b179f43d7f59932aec08563a1547860894472aa32d35fd2d034781f",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r45c33",
+   "plotId": 5,
+   "idx": 0,
+   "scoreBps": 10000,
+   "evidenceHash": "0xa8ce5ec4eaa20d0dbb0039c5501df553082de3d5abdf7203d042d189977fa6c7",
+   "file": "plot-r45c33-m0.json",
+   "leaf": "0x39a13675b19a1727368f686edac97b52023f7e4e3fc562e96fd23622c790e4fc",
+   "proof": [
+    "0x315b91abfad7bc2feabc7f3dd11da63fdb06d8898ec47151b8ed0145aaef5186",
+    "0x54d0beb96d87eb59b519868a2a257af3a49a762876376fed2ce7f2e2d7a120b3",
+    "0x26955c22cfd225cefaad192a10cc71f174f0d999e4dac92cdfb916a4cf79350e",
+    "0x1103c1ed7b179f43d7f59932aec08563a1547860894472aa32d35fd2d034781f",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r22c22",
+   "plotId": 7,
+   "idx": 3,
+   "scoreBps": 10000,
+   "evidenceHash": "0x3fd37a3fdcb2fd6a5cdf879c4b1aed99e98c9668c3fcde45145109dd218766bc",
+   "file": "plot-r22c22-m3.json",
+   "leaf": "0x3ac03ccea0d426635af9a9b59b36d047f2c7c85d828d0bea42f5d10b4f7d57ec",
+   "proof": [
+    "0x3ad750e9c5d7b53f6901f54c71a79f6fd180334624c7aac7056e64468363561a",
+    "0x5d350cbac3cdbc3311b7281416d5d60cfcd21c06dc5bc279a23bf3727283e83a",
+    "0x26955c22cfd225cefaad192a10cc71f174f0d999e4dac92cdfb916a4cf79350e",
+    "0x1103c1ed7b179f43d7f59932aec08563a1547860894472aa32d35fd2d034781f",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r59c40",
+   "plotId": 2,
+   "idx": 1,
+   "scoreBps": 10000,
+   "evidenceHash": "0x3bdff1fbe782acfcd40464ff70b70c2c7b5364aac40c8022846429c02a3c2c77",
+   "file": "plot-r59c40-m1.json",
+   "leaf": "0x3ad750e9c5d7b53f6901f54c71a79f6fd180334624c7aac7056e64468363561a",
+   "proof": [
+    "0x3ac03ccea0d426635af9a9b59b36d047f2c7c85d828d0bea42f5d10b4f7d57ec",
+    "0x5d350cbac3cdbc3311b7281416d5d60cfcd21c06dc5bc279a23bf3727283e83a",
+    "0x26955c22cfd225cefaad192a10cc71f174f0d999e4dac92cdfb916a4cf79350e",
+    "0x1103c1ed7b179f43d7f59932aec08563a1547860894472aa32d35fd2d034781f",
+    "0x9dd6a51da259fe0909affd955fd4ac2cd5d224ca5837bc48b09a093818aaf83a",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r26c32",
+   "plotId": 0,
+   "idx": 0,
+   "scoreBps": 10000,
+   "evidenceHash": "0x3161c9726d50bb38b3b209f78e889eb75d9baf1fe4e75eae4216fdc0d5bfc0be",
+   "file": "plot-r26c32-m0.json",
+   "leaf": "0x3c02b3a2171f3f6978bf3d5f48f015e14eafc6cfafff0d186a359fbafe2c6dd8",
+   "proof": [
+    "0x477e434a6869a89f52177c47c7a3328b5e67c2ad112c04b44cf635c7d94dbe8a",
+    "0x2d77d1bddb7ad41d1f9dbb077139ee86e8ed94ece66c9797c8d48e871696683e",
+    "0xdfb922bf2e6b7925eb14691844cfbfd72ed882de4935afe7bcbf9f2f5135ff4b",
+    "0x68a0d5ccb09a86c7c9e10faafceac2b62f6fb26098eb27e8c085b356a4dce2a6",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r42c36",
+   "plotId": 4,
+   "idx": 2,
+   "scoreBps": 10000,
+   "evidenceHash": "0xde8ab45e5b6465fb39279ab0da7e8f6a05a448d6b89c1c280258288ca6affd7a",
+   "file": "plot-r42c36-m2.json",
+   "leaf": "0x477e434a6869a89f52177c47c7a3328b5e67c2ad112c04b44cf635c7d94dbe8a",
+   "proof": [
+    "0x3c02b3a2171f3f6978bf3d5f48f015e14eafc6cfafff0d186a359fbafe2c6dd8",
+    "0x2d77d1bddb7ad41d1f9dbb077139ee86e8ed94ece66c9797c8d48e871696683e",
+    "0xdfb922bf2e6b7925eb14691844cfbfd72ed882de4935afe7bcbf9f2f5135ff4b",
+    "0x68a0d5ccb09a86c7c9e10faafceac2b62f6fb26098eb27e8c085b356a4dce2a6",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r24c26",
+   "plotId": 6,
+   "idx": 6,
+   "scoreBps": -1064,
+   "evidenceHash": "0xa9a6d40b9e412a4c36b02cf696a03992a51654d32e1adf2696fb0bd7ccaf681a",
+   "file": "plot-r24c26-m6.json",
+   "leaf": "0x4a2c0c3a3de4d1d2c9a213fbcfa299dd9b15dc88b135f68ea4d6ae3df55da239",
+   "proof": [
+    "0x4d7953ae16ae8eb22fda3dc607b32e65b3349c15e27d9ef02b0eee4ec5d51378",
+    "0xb9757286e21f200b8313503648601d8444f85eaf15c64d432dc830941e4a1c72",
+    "0xdfb922bf2e6b7925eb14691844cfbfd72ed882de4935afe7bcbf9f2f5135ff4b",
+    "0x68a0d5ccb09a86c7c9e10faafceac2b62f6fb26098eb27e8c085b356a4dce2a6",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r28c27",
+   "plotId": 3,
+   "idx": 1,
+   "scoreBps": 10000,
+   "evidenceHash": "0x91292ec519900f55858e4283accc22e904c194491aed28d78dbb00a1a5e194d9",
+   "file": "plot-r28c27-m1.json",
+   "leaf": "0x4d7953ae16ae8eb22fda3dc607b32e65b3349c15e27d9ef02b0eee4ec5d51378",
+   "proof": [
+    "0x4a2c0c3a3de4d1d2c9a213fbcfa299dd9b15dc88b135f68ea4d6ae3df55da239",
+    "0xb9757286e21f200b8313503648601d8444f85eaf15c64d432dc830941e4a1c72",
+    "0xdfb922bf2e6b7925eb14691844cfbfd72ed882de4935afe7bcbf9f2f5135ff4b",
+    "0x68a0d5ccb09a86c7c9e10faafceac2b62f6fb26098eb27e8c085b356a4dce2a6",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r41c21",
+   "plotId": 1,
+   "idx": 6,
+   "scoreBps": 7499,
+   "evidenceHash": "0xa1be804db534f5b7ce6875ce1f6704d69b368ff3fd2740dd167ff22055385307",
+   "file": "plot-r41c21-m6.json",
+   "leaf": "0x543e7db859ebfa9de2dccf9114ffae2c6c840f7a47c66320746550e54cf75fd7",
+   "proof": [
+    "0x56db67e7f5421709adad220aeacd14c18110507ea510dbfa944617fa20234866",
+    "0x5605b05b67b607c34a8a0ab8cfb20324af27110a2f6694a243b371c904d31c0f",
+    "0x623c5fb6b79c08a75b079d147f1af46a12eb74f38285ae4d78fed9ff439c01ea",
+    "0x68a0d5ccb09a86c7c9e10faafceac2b62f6fb26098eb27e8c085b356a4dce2a6",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r26c32",
+   "plotId": 0,
+   "idx": 1,
+   "scoreBps": 10000,
+   "evidenceHash": "0x0e68002f5ebcf1a67490d7600ac96d107ab6af2be900784bd63b34348b6727bd",
+   "file": "plot-r26c32-m1.json",
+   "leaf": "0x56db67e7f5421709adad220aeacd14c18110507ea510dbfa944617fa20234866",
+   "proof": [
+    "0x543e7db859ebfa9de2dccf9114ffae2c6c840f7a47c66320746550e54cf75fd7",
+    "0x5605b05b67b607c34a8a0ab8cfb20324af27110a2f6694a243b371c904d31c0f",
+    "0x623c5fb6b79c08a75b079d147f1af46a12eb74f38285ae4d78fed9ff439c01ea",
+    "0x68a0d5ccb09a86c7c9e10faafceac2b62f6fb26098eb27e8c085b356a4dce2a6",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r45c33",
+   "plotId": 5,
+   "idx": 6,
+   "scoreBps": 5262,
+   "evidenceHash": "0x7863b57fa1f0d7a70d9370f037836dd7f9560ab6682cad6dd8ea1fb21db2ca31",
+   "file": "plot-r45c33-m6.json",
+   "leaf": "0x571a43966ba132be8a1ac453e07e0cb06bb0f8d767e54f30abb4e76bc46add93",
+   "proof": [
+    "0x5c540296e970dca9cb0d607fb69b5e58b340cf3581e3e40a3a6394798793891a",
+    "0x6aa445b94b12e4ee8d180a7ea214beda6f6e09d9deeaee7c4e9b8d12a6bf0489",
+    "0x623c5fb6b79c08a75b079d147f1af46a12eb74f38285ae4d78fed9ff439c01ea",
+    "0x68a0d5ccb09a86c7c9e10faafceac2b62f6fb26098eb27e8c085b356a4dce2a6",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r42c36",
+   "plotId": 4,
+   "idx": 3,
+   "scoreBps": 10000,
+   "evidenceHash": "0xe682581ca9a9289d830302b9db5f0dfbbda907efe30ce30608474293da701f17",
+   "file": "plot-r42c36-m3.json",
+   "leaf": "0x5c540296e970dca9cb0d607fb69b5e58b340cf3581e3e40a3a6394798793891a",
+   "proof": [
+    "0x571a43966ba132be8a1ac453e07e0cb06bb0f8d767e54f30abb4e76bc46add93",
+    "0x6aa445b94b12e4ee8d180a7ea214beda6f6e09d9deeaee7c4e9b8d12a6bf0489",
+    "0x623c5fb6b79c08a75b079d147f1af46a12eb74f38285ae4d78fed9ff439c01ea",
+    "0x68a0d5ccb09a86c7c9e10faafceac2b62f6fb26098eb27e8c085b356a4dce2a6",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r45c33",
+   "plotId": 5,
+   "idx": 2,
+   "scoreBps": 10000,
+   "evidenceHash": "0xc3114a475d1cfa5f9d0f826f1f34e9f26498f3ed47c181a44fd8a2993c8b0658",
+   "file": "plot-r45c33-m2.json",
+   "leaf": "0x5c7fbbc7b0efcecf3a9e676fa15a5d1abb1c77e60aca17b7a48673f02ccc39b3",
+   "proof": [
+    "0x5d87d1fd558641fb04527f774cc74a961d8f599624012af58895beb2c21315c1",
+    "0xef6be4da275d109fd49110ff7716d79c7080f820cd98a02db64f46060cd9a288",
+    "0x89b1c2e03f4c15884017f5daae1e0ecff2d11bf75947b7fd8dbf9a40ab401ab0",
+    "0x8aa2eddc69711ba3d2cf813a9788e58ee6f2eb0553997222e161ffb206860ea8",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r59c40",
+   "plotId": 2,
+   "idx": 2,
+   "scoreBps": 10000,
+   "evidenceHash": "0x1a9fc3d356b9ceb98900f14f73c8d3ad51b151d6649b7ee7ddbc7e5f340af6fb",
+   "file": "plot-r59c40-m2.json",
+   "leaf": "0x5d87d1fd558641fb04527f774cc74a961d8f599624012af58895beb2c21315c1",
+   "proof": [
+    "0x5c7fbbc7b0efcecf3a9e676fa15a5d1abb1c77e60aca17b7a48673f02ccc39b3",
+    "0xef6be4da275d109fd49110ff7716d79c7080f820cd98a02db64f46060cd9a288",
+    "0x89b1c2e03f4c15884017f5daae1e0ecff2d11bf75947b7fd8dbf9a40ab401ab0",
+    "0x8aa2eddc69711ba3d2cf813a9788e58ee6f2eb0553997222e161ffb206860ea8",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r59c40",
+   "plotId": 2,
+   "idx": 5,
+   "scoreBps": 7158,
+   "evidenceHash": "0x12928dfd37fffef751efca01162a79600270d89467c769c41b4d8df381357df8",
+   "file": "plot-r59c40-m5.json",
+   "leaf": "0x69fe08cfbe1b2e8ac3dd3d291a96a25dcce09e5676520e9e52eb1cbbc704c6c7",
+   "proof": [
+    "0x71c37030d70bc7a77d7ad774b7e43e9d898d3eee81168ff5b6b594e32ec72b5d",
+    "0x4fffaffab93b17fc5ea091b15792a980a66d4b4f47aabe4ad16388a638d6abd5",
+    "0x89b1c2e03f4c15884017f5daae1e0ecff2d11bf75947b7fd8dbf9a40ab401ab0",
+    "0x8aa2eddc69711ba3d2cf813a9788e58ee6f2eb0553997222e161ffb206860ea8",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r41c21",
+   "plotId": 1,
+   "idx": 5,
+   "scoreBps": 6436,
+   "evidenceHash": "0xecc24a58cf5d94cd912a502979502747f9f2ea2e4c1abaae6f5ae7d35261db15",
+   "file": "plot-r41c21-m5.json",
+   "leaf": "0x71c37030d70bc7a77d7ad774b7e43e9d898d3eee81168ff5b6b594e32ec72b5d",
+   "proof": [
+    "0x69fe08cfbe1b2e8ac3dd3d291a96a25dcce09e5676520e9e52eb1cbbc704c6c7",
+    "0x4fffaffab93b17fc5ea091b15792a980a66d4b4f47aabe4ad16388a638d6abd5",
+    "0x89b1c2e03f4c15884017f5daae1e0ecff2d11bf75947b7fd8dbf9a40ab401ab0",
+    "0x8aa2eddc69711ba3d2cf813a9788e58ee6f2eb0553997222e161ffb206860ea8",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r28c27",
+   "plotId": 3,
+   "idx": 5,
+   "scoreBps": 5043,
+   "evidenceHash": "0xe1dc81c2959488e21bc98c0a152d6d587cfa23f3cab8ba9ff064ae3426d81993",
+   "file": "plot-r28c27-m5.json",
+   "leaf": "0x7e2a5728bbd0dfad4d1eac3760b58588a8be975275b312a7dce7955abbc5887f",
+   "proof": [
+    "0x9246ba9fa5e50a6af20f97d44839d98354172665ff6a6b916bfe87d4eb8013d3",
+    "0x34c8bfa15cbe4e4a10373c5721df3295e53780eb29ba84e800a1e24f6bcc465a",
+    "0xdc2aed526b106ec8db3af10992a2d3d54b850ed5ac7e0368e96732069a2bf163",
+    "0x8aa2eddc69711ba3d2cf813a9788e58ee6f2eb0553997222e161ffb206860ea8",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r41c21",
+   "plotId": 1,
+   "idx": 4,
+   "scoreBps": 10000,
+   "evidenceHash": "0x416015d4cd3995bf5236729bbea4f9c2bbb00c304660d8820efd11478afade61",
+   "file": "plot-r41c21-m4.json",
+   "leaf": "0x9246ba9fa5e50a6af20f97d44839d98354172665ff6a6b916bfe87d4eb8013d3",
+   "proof": [
+    "0x7e2a5728bbd0dfad4d1eac3760b58588a8be975275b312a7dce7955abbc5887f",
+    "0x34c8bfa15cbe4e4a10373c5721df3295e53780eb29ba84e800a1e24f6bcc465a",
+    "0xdc2aed526b106ec8db3af10992a2d3d54b850ed5ac7e0368e96732069a2bf163",
+    "0x8aa2eddc69711ba3d2cf813a9788e58ee6f2eb0553997222e161ffb206860ea8",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r59c40",
+   "plotId": 2,
+   "idx": 3,
+   "scoreBps": 10000,
+   "evidenceHash": "0xec132e6abc35213fbcd261a55f3e727a14d326baa2548530073a1a4ab072fad6",
+   "file": "plot-r59c40-m3.json",
+   "leaf": "0x951c66924a3e8e8985d319ab89242b21c3734c665a504bdf53f564b19b8060d1",
+   "proof": [
+    "0x97a7784bcab20114cdd4485caa5543db04a83452186d036ce65201648e0c6a66",
+    "0x22bd2d2040feafdae6e3af10ea62f2f61c41f83bea38192f7d369c09db0f4b33",
+    "0xdc2aed526b106ec8db3af10992a2d3d54b850ed5ac7e0368e96732069a2bf163",
+    "0x8aa2eddc69711ba3d2cf813a9788e58ee6f2eb0553997222e161ffb206860ea8",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r28c27",
+   "plotId": 3,
+   "idx": 0,
+   "scoreBps": 10000,
+   "evidenceHash": "0xd586cdb5c6c65ccb86c001cb76b81439c3d7d3eacced06f2e8728efd3a467e24",
+   "file": "plot-r28c27-m0.json",
+   "leaf": "0x97a7784bcab20114cdd4485caa5543db04a83452186d036ce65201648e0c6a66",
+   "proof": [
+    "0x951c66924a3e8e8985d319ab89242b21c3734c665a504bdf53f564b19b8060d1",
+    "0x22bd2d2040feafdae6e3af10ea62f2f61c41f83bea38192f7d369c09db0f4b33",
+    "0xdc2aed526b106ec8db3af10992a2d3d54b850ed5ac7e0368e96732069a2bf163",
+    "0x8aa2eddc69711ba3d2cf813a9788e58ee6f2eb0553997222e161ffb206860ea8",
+    "0x5e05e8deb43a2a01381067c0cf7a29d1472d2802425fbb07471d50c8d74eba1f",
+    "0xf4ec665e54443a168eb1cacc22b67c0b1bd9dabe2ba57f7460da15fcf3bb03ea"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r26c32",
+   "plotId": 0,
+   "idx": 4,
+   "scoreBps": 10000,
+   "evidenceHash": "0x818ed2137c8104ac2098b9dcd93b9a99ff1f3c3ef079881711cfc3200c46d7eb",
+   "file": "plot-r26c32-m4.json",
+   "leaf": "0x9a980426e064e2cda1151b80d91273714a6a35c2fd980887f9a89875340cb267",
+   "proof": [
+    "0xa02b04c99d89e093ca1508ea31975e039cf1224e62dd0020bbe36723b11c4879",
+    "0x2134921fe337eb3c8c3ffce10dd2693ad6cc459e0141d5c703fac93a60ff8ad4",
+    "0x18ebce190585b2dcd3fb9220b5482cc394e74dfe1e654556ba00ccb45eb34291",
+    "0x859ee8f65594bc5309885b8740b69bb2e3d19101f383ec40bd042d330acee1da",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r45c33",
+   "plotId": 5,
+   "idx": 3,
+   "scoreBps": 10000,
+   "evidenceHash": "0xb46a49270f85a616502086334f2984387af73ffdb9c8dff6e00073f3347132fd",
+   "file": "plot-r45c33-m3.json",
+   "leaf": "0xa02b04c99d89e093ca1508ea31975e039cf1224e62dd0020bbe36723b11c4879",
+   "proof": [
+    "0x9a980426e064e2cda1151b80d91273714a6a35c2fd980887f9a89875340cb267",
+    "0x2134921fe337eb3c8c3ffce10dd2693ad6cc459e0141d5c703fac93a60ff8ad4",
+    "0x18ebce190585b2dcd3fb9220b5482cc394e74dfe1e654556ba00ccb45eb34291",
+    "0x859ee8f65594bc5309885b8740b69bb2e3d19101f383ec40bd042d330acee1da",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r26c32",
+   "plotId": 0,
+   "idx": 3,
+   "scoreBps": 0,
+   "evidenceHash": "0x761d25e6085343534936e63e2e8c7066aa952de1775882e4d60a54e2899d9ab8",
+   "file": "plot-r26c32-m3.json",
+   "leaf": "0xa227dfd510ac438cd0639e9737bfdf713b1c69a60f8734d11c3e1273a745a398",
+   "proof": [
+    "0xa2fab32f4feb3e6432aefcb45797fc3eaec31ba9fd55bc18496a73d8e4b9f1d9",
+    "0xed419b08de76b55c8d665ea7fd74b02e0b238af3f83c055f60cd1618232e2977",
+    "0x18ebce190585b2dcd3fb9220b5482cc394e74dfe1e654556ba00ccb45eb34291",
+    "0x859ee8f65594bc5309885b8740b69bb2e3d19101f383ec40bd042d330acee1da",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r22c22",
+   "plotId": 7,
+   "idx": 6,
+   "scoreBps": -359,
+   "evidenceHash": "0xa3e9958de3b3cfc7a7c225896f9946905316d6858ffe368341351d8eacab734c",
+   "file": "plot-r22c22-m6.json",
+   "leaf": "0xa2fab32f4feb3e6432aefcb45797fc3eaec31ba9fd55bc18496a73d8e4b9f1d9",
+   "proof": [
+    "0xa227dfd510ac438cd0639e9737bfdf713b1c69a60f8734d11c3e1273a745a398",
+    "0xed419b08de76b55c8d665ea7fd74b02e0b238af3f83c055f60cd1618232e2977",
+    "0x18ebce190585b2dcd3fb9220b5482cc394e74dfe1e654556ba00ccb45eb34291",
+    "0x859ee8f65594bc5309885b8740b69bb2e3d19101f383ec40bd042d330acee1da",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r22c22",
+   "plotId": 7,
+   "idx": 0,
+   "scoreBps": 10000,
+   "evidenceHash": "0xc3f82b6b8741f5bc0a032f0fde6a5010f591adacc9f168aad6f60e726835349b",
+   "file": "plot-r22c22-m0.json",
+   "leaf": "0xa84e3441c6c2a9f608699f01eb983f445524947351f03631081431d8a1f88593",
+   "proof": [
+    "0xaafff0e732dc67d7f502642e540197230eb74eba7a3aba6724471f8a7c8101df",
+    "0x99166acdb09f124d2a33583de4907c91ccaae2fc33754dd6880b3f234a74112b",
+    "0x9565c86f0c4731360e97f71d30ee69bda4fa07ab00cbd4a8778b9594456f7ff8",
+    "0x859ee8f65594bc5309885b8740b69bb2e3d19101f383ec40bd042d330acee1da",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r45c33",
+   "plotId": 5,
+   "idx": 4,
+   "scoreBps": 10000,
+   "evidenceHash": "0xed2dd32adb79a73e90efd2fa9137713962e337fecba60b9420f58187b07b5bf0",
+   "file": "plot-r45c33-m4.json",
+   "leaf": "0xaafff0e732dc67d7f502642e540197230eb74eba7a3aba6724471f8a7c8101df",
+   "proof": [
+    "0xa84e3441c6c2a9f608699f01eb983f445524947351f03631081431d8a1f88593",
+    "0x99166acdb09f124d2a33583de4907c91ccaae2fc33754dd6880b3f234a74112b",
+    "0x9565c86f0c4731360e97f71d30ee69bda4fa07ab00cbd4a8778b9594456f7ff8",
+    "0x859ee8f65594bc5309885b8740b69bb2e3d19101f383ec40bd042d330acee1da",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r42c36",
+   "plotId": 4,
+   "idx": 6,
+   "scoreBps": 5174,
+   "evidenceHash": "0xff94ae61175d36e29f96f883a79042293c209ae004885e1a7a93c7efd8b52e37",
+   "file": "plot-r42c36-m6.json",
+   "leaf": "0xabd1899d802e2abf8f4649213e675a99e6944a8c39644203f73360d6e16ea05f",
+   "proof": [
+    "0xaeff62dd7ebc868971e062c5d0b635ffe0e10660529fc87aebfda2283d26cb49",
+    "0xab16dc2bec448eaa4bcd7bae6ea922583c39634e6ea0a2e1f08c9430fd72c077",
+    "0x9565c86f0c4731360e97f71d30ee69bda4fa07ab00cbd4a8778b9594456f7ff8",
+    "0x859ee8f65594bc5309885b8740b69bb2e3d19101f383ec40bd042d330acee1da",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r28c27",
+   "plotId": 3,
+   "idx": 2,
+   "scoreBps": 10000,
+   "evidenceHash": "0x573a3608429e0ba7a57243d8c94adbe08e5a588050809832528b52c86454ce7f",
+   "file": "plot-r28c27-m2.json",
+   "leaf": "0xaeff62dd7ebc868971e062c5d0b635ffe0e10660529fc87aebfda2283d26cb49",
+   "proof": [
+    "0xabd1899d802e2abf8f4649213e675a99e6944a8c39644203f73360d6e16ea05f",
+    "0xab16dc2bec448eaa4bcd7bae6ea922583c39634e6ea0a2e1f08c9430fd72c077",
+    "0x9565c86f0c4731360e97f71d30ee69bda4fa07ab00cbd4a8778b9594456f7ff8",
+    "0x859ee8f65594bc5309885b8740b69bb2e3d19101f383ec40bd042d330acee1da",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r26c32",
+   "plotId": 0,
+   "idx": 2,
+   "scoreBps": 0,
+   "evidenceHash": "0xa9944a74711acbda578e7c22a46b36b915d0c62944d5200c4e1861edf7282d7a",
+   "file": "plot-r26c32-m2.json",
+   "leaf": "0xb0a41b3ba75f18dd9fdb3ff2dc0aaeef591da2749c174793cab998df9f5399b2",
+   "proof": [
+    "0xb5ed61286d66cd0ccde27bb6cacb3d035274b8a13f1b9d257db424cb7ef31fd2",
+    "0x4a652babfd75bc83a66732803ed21b797283f7e0df4f36b56c2ab4610c75c349",
+    "0xecf144b58776c032cad30a3b221ef03f0eb22a1dd310c3edea9a0747690feef9",
+    "0x9e61e4a70669cfbc40ca03b7f2983059de4fc73cf219a61fc8e7c9f5949f090b",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r24c26",
+   "plotId": 6,
+   "idx": 3,
+   "scoreBps": 10000,
+   "evidenceHash": "0xff32203c2e19a2ec4170a37f9a444486743813fbb5b7638cca2bf127f4ef7924",
+   "file": "plot-r24c26-m3.json",
+   "leaf": "0xb5ed61286d66cd0ccde27bb6cacb3d035274b8a13f1b9d257db424cb7ef31fd2",
+   "proof": [
+    "0xb0a41b3ba75f18dd9fdb3ff2dc0aaeef591da2749c174793cab998df9f5399b2",
+    "0x4a652babfd75bc83a66732803ed21b797283f7e0df4f36b56c2ab4610c75c349",
+    "0xecf144b58776c032cad30a3b221ef03f0eb22a1dd310c3edea9a0747690feef9",
+    "0x9e61e4a70669cfbc40ca03b7f2983059de4fc73cf219a61fc8e7c9f5949f090b",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r22c22",
+   "plotId": 7,
+   "idx": 4,
+   "scoreBps": 10000,
+   "evidenceHash": "0x1de1132bfb18ef0bcdaca83bde211e102510ec0a7590ac2b958dd4fb6f70323d",
+   "file": "plot-r22c22-m4.json",
+   "leaf": "0xb839fe05120ff679bc2418fd3a1f9c62e7b8530cfef1a85b6d2179eab28e44f3",
+   "proof": [
+    "0xc2adb4dbbffaa0d2e7621e31b7fd69af01db12150e2db8ed9410ac2c178b18b8",
+    "0x0aac5b834271d892ed477ee5e8bcc7c6bddb025126262baa5532e93216fd30c5",
+    "0xecf144b58776c032cad30a3b221ef03f0eb22a1dd310c3edea9a0747690feef9",
+    "0x9e61e4a70669cfbc40ca03b7f2983059de4fc73cf219a61fc8e7c9f5949f090b",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r41c21",
+   "plotId": 1,
+   "idx": 1,
+   "scoreBps": 10000,
+   "evidenceHash": "0x0344846d0d1a32b148eb3fcfd97a576f2eb018c351c9d34e2a2c33b5abe5434f",
+   "file": "plot-r41c21-m1.json",
+   "leaf": "0xc2adb4dbbffaa0d2e7621e31b7fd69af01db12150e2db8ed9410ac2c178b18b8",
+   "proof": [
+    "0xb839fe05120ff679bc2418fd3a1f9c62e7b8530cfef1a85b6d2179eab28e44f3",
+    "0x0aac5b834271d892ed477ee5e8bcc7c6bddb025126262baa5532e93216fd30c5",
+    "0xecf144b58776c032cad30a3b221ef03f0eb22a1dd310c3edea9a0747690feef9",
+    "0x9e61e4a70669cfbc40ca03b7f2983059de4fc73cf219a61fc8e7c9f5949f090b",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r22c22",
+   "plotId": 7,
+   "idx": 5,
+   "scoreBps": -4077,
+   "evidenceHash": "0xabf0cf27c734046aa2d9f445d899c8ec2549fe3e70fe64b34264ed3ba185e35e",
+   "file": "plot-r22c22-m5.json",
+   "leaf": "0xc3a1be852cc64bef5d38aa072709d894e3ee6cb74561a17c65ed610119e27c39",
+   "proof": [
+    "0xc8c68483b725e688b37cccc48f2032ff5a344b0cfeaa600b431dc1c4bbc8a1be",
+    "0x1e454cb646216485072d74e3d66fa3357436438563f0020d3ec11fa9706a6655",
+    "0x99ade4e1c805b0c866af91b04ec2f855fa1230ecf8420381817a1ed9639bed70",
+    "0x9e61e4a70669cfbc40ca03b7f2983059de4fc73cf219a61fc8e7c9f5949f090b",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r59c40",
+   "plotId": 2,
+   "idx": 6,
+   "scoreBps": 6788,
+   "evidenceHash": "0xb958e04d22ce6ade470d26d23c2152adda2156c557d0d0766b1aa12a2c927709",
+   "file": "plot-r59c40-m6.json",
+   "leaf": "0xc8c68483b725e688b37cccc48f2032ff5a344b0cfeaa600b431dc1c4bbc8a1be",
+   "proof": [
+    "0xc3a1be852cc64bef5d38aa072709d894e3ee6cb74561a17c65ed610119e27c39",
+    "0x1e454cb646216485072d74e3d66fa3357436438563f0020d3ec11fa9706a6655",
+    "0x99ade4e1c805b0c866af91b04ec2f855fa1230ecf8420381817a1ed9639bed70",
+    "0x9e61e4a70669cfbc40ca03b7f2983059de4fc73cf219a61fc8e7c9f5949f090b",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r41c21",
+   "plotId": 1,
+   "idx": 3,
+   "scoreBps": 10000,
+   "evidenceHash": "0x9a65c1c89b1828f889b6bf6893031c45684c9e3661327462e54e0162149b7716",
+   "file": "plot-r41c21-m3.json",
+   "leaf": "0xca0d84b06167d0a4e84def841b8eb2a2db91d9416901e5fa5580f8e61f5dba5d",
+   "proof": [
+    "0xcdbd778163f79a14890f1196b486f2aba3ab7a83ccf44b67896021906981cf18",
+    "0x6243d686cb57ecfffde4b9caa52ad34b9dc23bd6316c1369ea246dbca3ae9497",
+    "0x99ade4e1c805b0c866af91b04ec2f855fa1230ecf8420381817a1ed9639bed70",
+    "0x9e61e4a70669cfbc40ca03b7f2983059de4fc73cf219a61fc8e7c9f5949f090b",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r24c26",
+   "plotId": 6,
+   "idx": 0,
+   "scoreBps": 10000,
+   "evidenceHash": "0x222d14f276cb63e8bd344fcafe9cb997133ace09f7e427009ca49717191523aa",
+   "file": "plot-r24c26-m0.json",
+   "leaf": "0xcdbd778163f79a14890f1196b486f2aba3ab7a83ccf44b67896021906981cf18",
+   "proof": [
+    "0xca0d84b06167d0a4e84def841b8eb2a2db91d9416901e5fa5580f8e61f5dba5d",
+    "0x6243d686cb57ecfffde4b9caa52ad34b9dc23bd6316c1369ea246dbca3ae9497",
+    "0x99ade4e1c805b0c866af91b04ec2f855fa1230ecf8420381817a1ed9639bed70",
+    "0x9e61e4a70669cfbc40ca03b7f2983059de4fc73cf219a61fc8e7c9f5949f090b",
+    "0x870e16ee7d05422d690bba40a4d5543485d5cbdff6baf9eae27fce95d0a81c8e",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r45c33",
+   "plotId": 5,
+   "idx": 1,
+   "scoreBps": 10000,
+   "evidenceHash": "0x647b812ae38cfeb0be7b7fd01305189bc1c79a79682af0c59cdb7a4a5186b611",
+   "file": "plot-r45c33-m1.json",
+   "leaf": "0xd4a0e80336a3a6f020b6ad98c8e2ab448eb7814ff62a8a62250f369f5a8121ca",
+   "proof": [
+    "0xd70c30082f5eaa68b42d04483e2fbe6e6e587f29c8b6090013b919ec2fe88446",
+    "0xef9c4b3c82b8c01fcf617a595952bb67987fecc8168ae9c363f8fbe10dc1aed3",
+    "0x659432ad760842c310ee16ca37451022a81bd374f01a2b97112a6663c7200aa8",
+    "0xfd98b5811373f44014148d646fc70cc459f82c09b8ba38ef1bf01532df1e4774",
+    "0x11cdd4f6ce4dd44c26e16dbf6d17bac0f7b96df7ec74e4980d83e65d4bd48f5a",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r22c22",
+   "plotId": 7,
+   "idx": 1,
+   "scoreBps": 10000,
+   "evidenceHash": "0x7b34bfe3f9b6f75cdcda1671bc26a9e5711296feee608942a08c6a00f4e0636a",
+   "file": "plot-r22c22-m1.json",
+   "leaf": "0xd70c30082f5eaa68b42d04483e2fbe6e6e587f29c8b6090013b919ec2fe88446",
+   "proof": [
+    "0xd4a0e80336a3a6f020b6ad98c8e2ab448eb7814ff62a8a62250f369f5a8121ca",
+    "0xef9c4b3c82b8c01fcf617a595952bb67987fecc8168ae9c363f8fbe10dc1aed3",
+    "0x659432ad760842c310ee16ca37451022a81bd374f01a2b97112a6663c7200aa8",
+    "0xfd98b5811373f44014148d646fc70cc459f82c09b8ba38ef1bf01532df1e4774",
+    "0x11cdd4f6ce4dd44c26e16dbf6d17bac0f7b96df7ec74e4980d83e65d4bd48f5a",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r26c32",
+   "plotId": 0,
+   "idx": 5,
+   "scoreBps": -5000,
+   "evidenceHash": "0xa5fb88c277c16390a996b8503b67be7c12abfc9d4502ea16b3424d6f43d6d762",
+   "file": "plot-r26c32-m5.json",
+   "leaf": "0xe41a5e3149d8caf3f242a3728cce7f79ab09f059c2e1b9242dcc9ab38aa81182",
+   "proof": [
+    "0xe7326b360d71101a26f8de2a87ae495ae1ba60f50647a2f0e408bec308408f22",
+    "0xc6cd5c2ba34a1741a410332418ca04c8ed79a01267b3a2afa2bd752cec302988",
+    "0x659432ad760842c310ee16ca37451022a81bd374f01a2b97112a6663c7200aa8",
+    "0xfd98b5811373f44014148d646fc70cc459f82c09b8ba38ef1bf01532df1e4774",
+    "0x11cdd4f6ce4dd44c26e16dbf6d17bac0f7b96df7ec74e4980d83e65d4bd48f5a",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r41c21",
+   "plotId": 1,
+   "idx": 2,
+   "scoreBps": 10000,
+   "evidenceHash": "0x06628c1542d27fa3dc090dd5d0ed2511408f185ae8898a922a64f41d86b4a507",
+   "file": "plot-r41c21-m2.json",
+   "leaf": "0xe7326b360d71101a26f8de2a87ae495ae1ba60f50647a2f0e408bec308408f22",
+   "proof": [
+    "0xe41a5e3149d8caf3f242a3728cce7f79ab09f059c2e1b9242dcc9ab38aa81182",
+    "0xc6cd5c2ba34a1741a410332418ca04c8ed79a01267b3a2afa2bd752cec302988",
+    "0x659432ad760842c310ee16ca37451022a81bd374f01a2b97112a6663c7200aa8",
+    "0xfd98b5811373f44014148d646fc70cc459f82c09b8ba38ef1bf01532df1e4774",
+    "0x11cdd4f6ce4dd44c26e16dbf6d17bac0f7b96df7ec74e4980d83e65d4bd48f5a",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r28c27",
+   "plotId": 3,
+   "idx": 6,
+   "scoreBps": 6688,
+   "evidenceHash": "0x5b4a88dc9c344fb68529e90cfbe9d4696766b92b53bb27061d2fa12373200409",
+   "file": "plot-r28c27-m6.json",
+   "leaf": "0xe8358a3bce49e849a644f7ad2ca272ec7bac95867dc7a1f9b96fb56fdc19c675",
+   "proof": [
+    "0xe98293cefcd151ce12526a747828bf5062b00a9865c3614fa6a0c59498200a3c",
+    "0x96951195f78220cd317265dae46d5c7b37c093140460e97fbe8abdf91117b76b",
+    "0xc10b1ed28679ec233941e42a60347a0d9426eb579e38e29573070bb0c26f17b7",
+    "0xfd98b5811373f44014148d646fc70cc459f82c09b8ba38ef1bf01532df1e4774",
+    "0x11cdd4f6ce4dd44c26e16dbf6d17bac0f7b96df7ec74e4980d83e65d4bd48f5a",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r45c33",
+   "plotId": 5,
+   "idx": 5,
+   "scoreBps": 3515,
+   "evidenceHash": "0x09471587cace882d5ed1ccda8d63e2f09e0f41763caa70be7368888e5930764d",
+   "file": "plot-r45c33-m5.json",
+   "leaf": "0xe98293cefcd151ce12526a747828bf5062b00a9865c3614fa6a0c59498200a3c",
+   "proof": [
+    "0xe8358a3bce49e849a644f7ad2ca272ec7bac95867dc7a1f9b96fb56fdc19c675",
+    "0x96951195f78220cd317265dae46d5c7b37c093140460e97fbe8abdf91117b76b",
+    "0xc10b1ed28679ec233941e42a60347a0d9426eb579e38e29573070bb0c26f17b7",
+    "0xfd98b5811373f44014148d646fc70cc459f82c09b8ba38ef1bf01532df1e4774",
+    "0x11cdd4f6ce4dd44c26e16dbf6d17bac0f7b96df7ec74e4980d83e65d4bd48f5a",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r41c21",
+   "plotId": 1,
+   "idx": 0,
+   "scoreBps": 10000,
+   "evidenceHash": "0xa64a82a8f610ccfac0abf889f12e29c8ae956a379d935ae3bb98f3eb463b9c56",
+   "file": "plot-r41c21-m0.json",
+   "leaf": "0xf2f83ce785dc9b2710f3a541074cefcd28a63d0575b35283de2e2e13044aa32c",
+   "proof": [
+    "0xfc9ce14faf49e1cdf04226644fc5f67d75c9cfefe69534675bb71c48d2031db7",
+    "0x34c349a1492ab956beeaa6ff61d0df6fbf6549f375c59c5f81bc6115220ad154",
+    "0xc10b1ed28679ec233941e42a60347a0d9426eb579e38e29573070bb0c26f17b7",
+    "0xfd98b5811373f44014148d646fc70cc459f82c09b8ba38ef1bf01532df1e4774",
+    "0x11cdd4f6ce4dd44c26e16dbf6d17bac0f7b96df7ec74e4980d83e65d4bd48f5a",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r42c36",
+   "plotId": 4,
+   "idx": 0,
+   "scoreBps": 10000,
+   "evidenceHash": "0x0c210b7ab7c03a5dfcb4d99f3f6885ff18d882c01603519c8c8b23166b3e0ab3",
+   "file": "plot-r42c36-m0.json",
+   "leaf": "0xfc9ce14faf49e1cdf04226644fc5f67d75c9cfefe69534675bb71c48d2031db7",
+   "proof": [
+    "0xf2f83ce785dc9b2710f3a541074cefcd28a63d0575b35283de2e2e13044aa32c",
+    "0x34c349a1492ab956beeaa6ff61d0df6fbf6549f375c59c5f81bc6115220ad154",
+    "0xc10b1ed28679ec233941e42a60347a0d9426eb579e38e29573070bb0c26f17b7",
+    "0xfd98b5811373f44014148d646fc70cc459f82c09b8ba38ef1bf01532df1e4774",
+    "0x11cdd4f6ce4dd44c26e16dbf6d17bac0f7b96df7ec74e4980d83e65d4bd48f5a",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  },
+  {
+   "kind": 0,
+   "plot": "plot-r26c32",
+   "plotId": 0,
+   "idx": 6,
+   "scoreBps": -3767,
+   "evidenceHash": "0xe6ffd150e62555dbdd96b785951477c5cf8af1933c0cf33d6bb4c6ba314774ba",
+   "file": "plot-r26c32-m6.json",
+   "leaf": "0xfd98b5811373f44014148d646fc70cc459f82c09b8ba38ef1bf01532df1e4774",
+   "proof": [
+    "0x44e3e32d29e927486212d492ca29fde47beeac33c8bfb8cb3b7d3aa25d8b69f3",
+    "0x11cdd4f6ce4dd44c26e16dbf6d17bac0f7b96df7ec74e4980d83e65d4bd48f5a",
+    "0xe1d77d414d6624123f8d0c95712ca0dea2fcf04d033f9b1efe74f1618cc0abcf"
+   ]
+  }
+ ]
+}

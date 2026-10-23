@@ -1,0 +1,60 @@
+{
+ "plots": [
+  {
+   "areaHa": 64,
+   "chainId": 0,
+   "id": "plot-r26c32",
+   "name": "Manavgat slope",
+   "planType": 0
+  },
+  {
+   "areaHa": 64,
+   "chainId": 1,
+   "id": "plot-r41c21",
+   "name": "Salur slope",
+   "planType": 0
+  },
+  {
+   "areaHa": 64,
+   "chainId": 2,
+   "id": "plot-r59c40",
+   "name": "Hacıali slope",
+   "planType": 0
+  },
+  {
+   "areaHa": 64,
+   "chainId": 3,
+   "id": "plot-r28c27",
+   "name": "Manavgat slope 2",
+   "planType": 0
+  },
+  {
+   "areaHa": 64,
+   "chainId": 4,
+   "id": "plot-r42c36",
+   "name": "Güzelyalı slope",
+   "planType": 0
+  },
+  {
+   "areaHa": 64,
+   "chainId": 5,
+   "id": "plot-r45c33",
+   "name": "Iğraşlar slope",
+   "planType": 0
+  },
+  {
+   "areaHa": 64,
+   "chainId": 6,
+   "id": "plot-r24c26",
+   "name": "Sırtköy slope",
+   "planType": 0
+  },
+  {
+   "areaHa": 64,
+   "chainId": 7,
+   "id": "plot-r22c22",
+   "name": "Kızıldağ slope",
+   "planType": 0
+  }
+ ]
+}

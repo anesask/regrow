@@ -1,0 +1,3412 @@
+{
+ "ctrl-r50c73": {
+  "chainId": null,
+  "periods": {
+   "pre": {
+    "ndvi": 0.5888,
+    "nbr": 0.325,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.6081,
+    "nbr": 0.3609,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.5699,
+    "nbr": 0.3196,
+    "rr": null,
+    "adj": null
+   },
+   "2023": {
+    "ndvi": 0.6113,
+    "nbr": 0.3399,
+    "rr": null,
+    "adj": null
+   },
+   "2024": {
+    "ndvi": 0.6187,
+    "nbr": 0.3521,
+    "rr": null,
+    "adj": null
+   },
+   "2025": {
+    "ndvi": 0.6001,
+    "nbr": 0.3356,
+    "rr": null,
+    "adj": null
+   },
+   "2026": {
+    "ndvi": 0.6236,
+    "nbr": 0.362,
+    "rr": null,
+    "adj": null
+   }
+  },
+  "milestones": [],
+  "disturbance": null,
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "nbr": 0.3493
+   },
+   {
+    "q": "2020Q4",
+    "nbr": 0.4254
+   },
+   {
+    "q": "2021Q1",
+    "nbr": 0.3103
+   },
+   {
+    "q": "2021Q2",
+    "nbr": 0.3424
+   },
+   {
+    "q": "2021Q3",
+    "nbr": 0.3451
+   },
+   {
+    "q": "2021Q4",
+    "nbr": 0.3607
+   },
+   {
+    "q": "2022Q1",
+    "nbr": 0.3408
+   },
+   {
+    "q": "2022Q2",
+    "nbr": 0.3071
+   },
+   {
+    "q": "2022Q3",
+    "nbr": 0.3241
+   },
+   {
+    "q": "2022Q4",
+    "nbr": 0.3715
+   },
+   {
+    "q": "2023Q1",
+    "nbr": 0.3077
+   },
+   {
+    "q": "2023Q2",
+    "nbr": 0.3177
+   },
+   {
+    "q": "2023Q3",
+    "nbr": 0.3465
+   },
+   {
+    "q": "2023Q4",
+    "nbr": 0.3971
+   },
+   {
+    "q": "2024Q1",
+    "nbr": 0.3105
+   },
+   {
+    "q": "2024Q2",
+    "nbr": 0.3321
+   },
+   {
+    "q": "2024Q3",
+    "nbr": 0.3676
+   },
+   {
+    "q": "2024Q4",
+    "nbr": 0.3988
+   },
+   {
+    "q": "2025Q1",
+    "nbr": 0.3159
+   },
+   {
+    "q": "2025Q2",
+    "nbr": 0.3302
+   },
+   {
+    "q": "2025Q3",
+    "nbr": 0.3436
+   },
+   {
+    "q": "2025Q4",
+    "nbr": 0.4092
+   },
+   {
+    "q": "2026Q1",
+    "nbr": 0.3111
+   },
+   {
+    "q": "2026Q2",
+    "nbr": 0.3334
+   },
+   {
+    "q": "2026Q3",
+    "nbr": 0.3685
+   }
+  ]
+ },
+ "ctrl-r13c50": {
+  "chainId": null,
+  "periods": {
+   "pre": {
+    "ndvi": 0.5887,
+    "nbr": 0.2782,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.5941,
+    "nbr": 0.2906,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.58,
+    "nbr": 0.2782,
+    "rr": null,
+    "adj": null
+   },
+   "2023": {
+    "ndvi": 0.5882,
+    "nbr": 0.2661,
+    "rr": null,
+    "adj": null
+   },
+   "2024": {
+    "ndvi": 0.5864,
+    "nbr": 0.2462,
+    "rr": null,
+    "adj": null
+   },
+   "2025": {
+    "ndvi": 0.6099,
+    "nbr": 0.2911,
+    "rr": null,
+    "adj": null
+   },
+   "2026": {
+    "ndvi": 0.6203,
+    "nbr": 0.3102,
+    "rr": null,
+    "adj": null
+   }
+  },
+  "milestones": [],
+  "disturbance": null,
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "nbr": 0.2564
+   },
+   {
+    "q": "2020Q4",
+    "nbr": 0.3169
+   },
+   {
+    "q": "2021Q1",
+    "nbr": 0.2274
+   },
+   {
+    "q": "2021Q2",
+    "nbr": 0.2755
+   },
+   {
+    "q": "2021Q3",
+    "nbr": 0.2716
+   },
+   {
+    "q": "2021Q4",
+    "nbr": 0.3299
+   },
+   {
+    "q": "2022Q1",
+    "nbr": 0.4143
+   },
+   {
+    "q": "2022Q2",
+    "nbr": 0.268
+   },
+   {
+    "q": "2022Q3",
+    "nbr": 0.2684
+   },
+   {
+    "q": "2022Q4",
+    "nbr": 0.322
+   },
+   {
+    "q": "2023Q1",
+    "nbr": 0.2711
+   },
+   {
+    "q": "2023Q2",
+    "nbr": 0.2728
+   },
+   {
+    "q": "2023Q3",
+    "nbr": 0.2577
+   },
+   {
+    "q": "2023Q4",
+    "nbr": 0.3093
+   },
+   {
+    "q": "2024Q1",
+    "nbr": 0.214
+   },
+   {
+    "q": "2024Q2",
+    "nbr": 0.2358
+   },
+   {
+    "q": "2024Q3",
+    "nbr": 0.2397
+   },
+   {
+    "q": "2024Q4",
+    "nbr": 0.3021
+   },
+   {
+    "q": "2025Q1",
+    "nbr": 0.2604
+   },
+   {
+    "q": "2025Q2",
+    "nbr": 0.2923
+   },
+   {
+    "q": "2025Q3",
+    "nbr": 0.2865
+   },
+   {
+    "q": "2025Q4",
+    "nbr": 0.3531
+   },
+   {
+    "q": "2026Q1",
+    "nbr": 0.2701
+   },
+   {
+    "q": "2026Q2",
+    "nbr": 0.302
+   },
+   {
+    "q": "2026Q3",
+    "nbr": 0.3024
+   }
+  ]
+ },
+ "ctrl-r28c42": {
+  "chainId": null,
+  "periods": {
+   "pre": {
+    "ndvi": 0.5887,
+    "nbr": 0.2699,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.5823,
+    "nbr": 0.273,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.5705,
+    "nbr": 0.2729,
+    "rr": null,
+    "adj": null
+   },
+   "2023": {
+    "ndvi": 0.5961,
+    "nbr": 0.2753,
+    "rr": null,
+    "adj": null
+   },
+   "2024": {
+    "ndvi": 0.5746,
+    "nbr": 0.2455,
+    "rr": null,
+    "adj": null
+   },
+   "2025": {
+    "ndvi": 0.5936,
+    "nbr": 0.2808,
+    "rr": null,
+    "adj": null
+   },
+   "2026": {
+    "ndvi": 0.6145,
+    "nbr": 0.296,
+    "rr": null,
+    "adj": null
+   }
+  },
+  "milestones": [],
+  "disturbance": null,
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "nbr": 0.2542
+   },
+   {
+    "q": "2020Q4",
+    "nbr": 0.2755
+   },
+   {
+    "q": "2021Q1",
+    "nbr": 0.0831
+   },
+   {
+    "q": "2021Q2",
+    "nbr": 0.2684
+   },
+   {
+    "q": "2021Q3",
+    "nbr": 0.2674
+   },
+   {
+    "q": "2021Q4",
+    "nbr": 0.2827
+   },
+   {
+    "q": "2022Q1",
+    "nbr": 0.2033
+   },
+   {
+    "q": "2022Q2",
+    "nbr": 0.2558
+   },
+   {
+    "q": "2022Q3",
+    "nbr": 0.264
+   },
+   {
+    "q": "2022Q4",
+    "nbr": 0.2734
+   },
+   {
+    "q": "2023Q1",
+    "nbr": 0.1133
+   },
+   {
+    "q": "2023Q2",
+    "nbr": 0.2658
+   },
+   {
+    "q": "2023Q3",
+    "nbr": 0.2641
+   },
+   {
+    "q": "2023Q4",
+    "nbr": 0.25
+   },
+   {
+    "q": "2024Q1",
+    "nbr": 0.0532
+   },
+   {
+    "q": "2024Q2",
+    "nbr": 0.2507
+   },
+   {
+    "q": "2024Q3",
+    "nbr": 0.2369
+   },
+   {
+    "q": "2024Q4",
+    "nbr": 0.2666
+   },
+   {
+    "q": "2025Q1",
+    "nbr": 0.0724
+   },
+   {
+    "q": "2025Q2",
+    "nbr": 0.2528
+   },
+   {
+    "q": "2025Q3",
+    "nbr": 0.2768
+   },
+   {
+    "q": "2025Q4",
+    "nbr": 0.2861
+   },
+   {
+    "q": "2026Q1",
+    "nbr": 0.1314
+   },
+   {
+    "q": "2026Q2",
+    "nbr": 0.2968
+   },
+   {
+    "q": "2026Q3",
+    "nbr": 0.2892
+   }
+  ]
+ },
+ "plot-r26c32": {
+  "chainId": 0,
+  "periods": {
+   "pre": {
+    "ndvi": 0.6676,
+    "nbr": 0.4735,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.4088,
+    "nbr": 0.203,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.193,
+    "nbr": -0.0333,
+    "rr": 0.0,
+    "adj": -0.5
+   },
+   "2023": {
+    "ndvi": 0.2373,
+    "nbr": -0.008,
+    "rr": 0.0,
+    "adj": -0.5
+   },
+   "2024": {
+    "ndvi": 0.2458,
+    "nbr": 0.008,
+    "rr": 0.0,
+    "adj": -0.5
+   },
+   "2025": {
+    "ndvi": 0.2811,
+    "nbr": 0.0828,
+    "rr": 0.0,
+    "adj": -0.5
+   },
+   "2026": {
+    "ndvi": 0.3482,
+    "nbr": 0.1555,
+    "rr": 0.0,
+    "adj": -0.3767
+   }
+  },
+  "milestones": [
+   {
+    "idx": 0,
+    "kind": "baseline",
+    "label": "Stewardship start",
+    "period": "2021",
+    "bps": 1500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x3161c9726d50bb38b3b209f78e889eb75d9baf1fe4e75eae4216fdc0d5bfc0be",
+    "scenes": 65
+   },
+   {
+    "idx": 1,
+    "kind": "checkin",
+    "label": "Check-in Q4 2021",
+    "period": "2021Q4",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x0e68002f5ebcf1a67490d7600ac96d107ab6af2be900784bd63b34348b6727bd",
+    "netDrop": -0.0555,
+    "inconclusive": false,
+    "scenes": 23
+   },
+   {
+    "idx": 2,
+    "kind": "checkin",
+    "label": "Check-in Q1 2022",
+    "period": "2022Q1",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 0,
+    "fractionBps": 0,
+    "outcome": "missed",
+    "evidenceHash": "0xa9944a74711acbda578e7c22a46b36b915d0c62944d5200c4e1861edf7282d7a",
+    "netDrop": 0.1287,
+    "inconclusive": false,
+    "scenes": 19
+   },
+   {
+    "idx": 3,
+    "kind": "checkin",
+    "label": "Check-in Q2 2022",
+    "period": "2022Q2",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 0,
+    "fractionBps": 0,
+    "outcome": "missed",
+    "evidenceHash": "0x761d25e6085343534936e63e2e8c7066aa952de1775882e4d60a54e2899d9ab8",
+    "netDrop": 0.123,
+    "inconclusive": false,
+    "scenes": 60
+   },
+   {
+    "idx": 4,
+    "kind": "checkin",
+    "label": "Check-in Q3 2022",
+    "period": "2022Q3",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x818ed2137c8104ac2098b9dcd93b9a99ff1f3c3ef079881711cfc3200c46d7eb",
+    "netDrop": 0.0142,
+    "inconclusive": false,
+    "scenes": 56
+   },
+   {
+    "idx": 5,
+    "kind": "recovery",
+    "label": "Early recovery",
+    "period": "2023",
+    "bps": 3000,
+    "targetBps": 3000,
+    "failBelowBps": 5000,
+    "scoreBps": -5000,
+    "fractionBps": 0,
+    "outcome": "fail",
+    "evidenceHash": "0xa5fb88c277c16390a996b8503b67be7c12abfc9d4502ea16b3424d6f43d6d762",
+    "ci95": 0.0606,
+    "confident": true,
+    "scenes": 201
+   },
+   {
+    "idx": 6,
+    "kind": "recovery",
+    "label": "Sustained recovery",
+    "period": "2026",
+    "bps": 3500,
+    "targetBps": 6000,
+    "failBelowBps": 5000,
+    "scoreBps": -3767,
+    "fractionBps": 0,
+    "outcome": "not reached",
+    "evidenceHash": "0xe6ffd150e62555dbdd96b785951477c5cf8af1933c0cf33d6bb4c6ba314774ba",
+    "ci95": 0.0751,
+    "confident": true,
+    "scenes": 172
+   }
+  ],
+  "disturbance": {
+   "flagged": true,
+   "year": "2022",
+   "drop": 0.204,
+   "evidenceHash": "0xb3b9dbb048372a6716fbe581f4049363d36316c5e69f19ec925ed23c9ffde5ab"
+  },
+  "twins": {
+   "method": "mahalanobis-knn, k=10",
+   "covariates": [
+    "preNbr",
+    "preNdvi",
+    "elev",
+    "slope",
+    "northness"
+   ],
+   "dem": "Copernicus DEM GLO-30 (Microsoft Planetary Computer)",
+   "ids": [
+    "r10c19",
+    "r05c11",
+    "r13c13",
+    "r52c63",
+    "r10c20",
+    "r08c10",
+    "r10c21",
+    "r58c71",
+    "r11c20",
+    "r15c21"
+   ],
+   "nbr": {
+    "pre": 0.4612,
+    "post": 0.5325,
+    "2022": 0.5003,
+    "2023": 0.4978,
+    "2024": 0.5035,
+    "2025": 0.5028,
+    "2026": 0.5156
+   }
+  },
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "phase": "pre",
+    "nbr": 0.5173,
+    "ctrlNbr": 0.2866,
+    "adj": null
+   },
+   {
+    "q": "2020Q4",
+    "phase": "pre",
+    "nbr": 0.6298,
+    "ctrlNbr": 0.3393,
+    "adj": null
+   },
+   {
+    "q": "2021Q1",
+    "phase": "pre",
+    "nbr": 0.5422,
+    "ctrlNbr": 0.2069,
+    "adj": null
+   },
+   {
+    "q": "2021Q2",
+    "phase": "pre",
+    "nbr": 0.4709,
+    "ctrlNbr": 0.2954,
+    "adj": null
+   },
+   {
+    "q": "2021Q3",
+    "phase": "fire",
+    "nbr": 0.231,
+    "ctrlNbr": 0.2947,
+    "adj": null
+   },
+   {
+    "q": "2021Q4",
+    "phase": "post",
+    "nbr": 0.2748,
+    "ctrlNbr": 0.3244,
+    "adj": 0.203
+   },
+   {
+    "q": "2022Q1",
+    "phase": "post",
+    "nbr": 0.1411,
+    "ctrlNbr": 0.3195,
+    "adj": -0.5142
+   },
+   {
+    "q": "2022Q2",
+    "phase": "post",
+    "nbr": -0.0244,
+    "ctrlNbr": 0.277,
+    "adj": -0.7799
+   },
+   {
+    "q": "2022Q3",
+    "phase": "post",
+    "nbr": -0.0301,
+    "ctrlNbr": 0.2855,
+    "adj": -0.738
+   },
+   {
+    "q": "2022Q4",
+    "phase": "post",
+    "nbr": -0.035,
+    "ctrlNbr": 0.3223,
+    "adj": -0.5179
+   },
+   {
+    "q": "2023Q1",
+    "phase": "post",
+    "nbr": -0.0772,
+    "ctrlNbr": 0.2307,
+    "adj": -0.8961
+   },
+   {
+    "q": "2023Q2",
+    "phase": "post",
+    "nbr": 0.0014,
+    "ctrlNbr": 0.2854,
+    "adj": -0.7152
+   },
+   {
+    "q": "2023Q3",
+    "phase": "post",
+    "nbr": -0.0116,
+    "ctrlNbr": 0.2894,
+    "adj": -0.6917
+   },
+   {
+    "q": "2023Q4",
+    "phase": "post",
+    "nbr": -0.0142,
+    "ctrlNbr": 0.3188,
+    "adj": -0.4609
+   },
+   {
+    "q": "2024Q1",
+    "phase": "post",
+    "nbr": -0.0261,
+    "ctrlNbr": 0.1926,
+    "adj": -0.6331
+   },
+   {
+    "q": "2024Q2",
+    "phase": "post",
+    "nbr": 0.0417,
+    "ctrlNbr": 0.2729,
+    "adj": -0.5179
+   },
+   {
+    "q": "2024Q3",
+    "phase": "post",
+    "nbr": -0.0005,
+    "ctrlNbr": 0.2814,
+    "adj": -0.6308
+   },
+   {
+    "q": "2024Q4",
+    "phase": "post",
+    "nbr": 0.0244,
+    "ctrlNbr": 0.3225,
+    "adj": -0.3792
+   },
+   {
+    "q": "2025Q1",
+    "phase": "post",
+    "nbr": -0.0204,
+    "ctrlNbr": 0.2162,
+    "adj": -0.686
+   },
+   {
+    "q": "2025Q2",
+    "phase": "post",
+    "nbr": 0.104,
+    "ctrlNbr": 0.2918,
+    "adj": -0.3559
+   },
+   {
+    "q": "2025Q3",
+    "phase": "post",
+    "nbr": 0.0744,
+    "ctrlNbr": 0.3023,
+    "adj": -0.459
+   },
+   {
+    "q": "2025Q4",
+    "phase": "post",
+    "nbr": 0.1102,
+    "ctrlNbr": 0.3495,
+    "adj": -0.2413
+   },
+   {
+    "q": "2026Q1",
+    "phase": "post",
+    "nbr": 0.0739,
+    "ctrlNbr": 0.2375,
+    "adj": -0.4708
+   },
+   {
+    "q": "2026Q2",
+    "phase": "post",
+    "nbr": 0.2226,
+    "ctrlNbr": 0.3107,
+    "adj": 0.0161
+   },
+   {
+    "q": "2026Q3",
+    "phase": "post",
+    "nbr": 0.146,
+    "ctrlNbr": 0.32,
+    "adj": -0.2876
+   }
+  ]
+ },
+ "plot-r41c21": {
+  "chainId": 1,
+  "periods": {
+   "pre": {
+    "ndvi": 0.6188,
+    "nbr": 0.3864,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.1819,
+    "nbr": -0.372,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.2271,
+    "nbr": -0.0259,
+    "rr": 0.4564,
+    "adj": 0.4407
+   },
+   "2023": {
+    "ndvi": 0.3722,
+    "nbr": 0.1426,
+    "rr": 0.6785,
+    "adj": 0.6436
+   },
+   "2024": {
+    "ndvi": 0.3734,
+    "nbr": 0.1663,
+    "rr": 0.7098,
+    "adj": 0.6794
+   },
+   "2025": {
+    "ndvi": 0.4322,
+    "nbr": 0.2326,
+    "rr": 0.7972,
+    "adj": 0.754
+   },
+   "2026": {
+    "ndvi": 0.4601,
+    "nbr": 0.2454,
+    "rr": 0.8141,
+    "adj": 0.7499
+   }
+  },
+  "milestones": [
+   {
+    "idx": 0,
+    "kind": "baseline",
+    "label": "Stewardship start",
+    "period": "2021",
+    "bps": 1500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xa64a82a8f610ccfac0abf889f12e29c8ae956a379d935ae3bb98f3eb463b9c56",
+    "scenes": 65
+   },
+   {
+    "idx": 1,
+    "kind": "checkin",
+    "label": "Check-in Q4 2021",
+    "period": "2021Q4",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x0344846d0d1a32b148eb3fcfd97a576f2eb018c351c9d34e2a2c33b5abe5434f",
+    "netDrop": -0.0969,
+    "inconclusive": false,
+    "scenes": 23
+   },
+   {
+    "idx": 2,
+    "kind": "checkin",
+    "label": "Check-in Q1 2022",
+    "period": "2022Q1",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x06628c1542d27fa3dc090dd5d0ed2511408f185ae8898a922a64f41d86b4a507",
+    "netDrop": -0.1217,
+    "inconclusive": false,
+    "scenes": 19
+   },
+   {
+    "idx": 3,
+    "kind": "checkin",
+    "label": "Check-in Q2 2022",
+    "period": "2022Q2",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x9a65c1c89b1828f889b6bf6893031c45684c9e3661327462e54e0162149b7716",
+    "netDrop": -0.121,
+    "inconclusive": false,
+    "scenes": 60
+   },
+   {
+    "idx": 4,
+    "kind": "checkin",
+    "label": "Check-in Q3 2022",
+    "period": "2022Q3",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x416015d4cd3995bf5236729bbea4f9c2bbb00c304660d8820efd11478afade61",
+    "netDrop": -0.0373,
+    "inconclusive": false,
+    "scenes": 56
+   },
+   {
+    "idx": 5,
+    "kind": "recovery",
+    "label": "Early recovery",
+    "period": "2023",
+    "bps": 3000,
+    "targetBps": 3000,
+    "failBelowBps": 5000,
+    "scoreBps": 6436,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xecc24a58cf5d94cd912a502979502747f9f2ea2e4c1abaae6f5ae7d35261db15",
+    "ci95": 0.0178,
+    "confident": true,
+    "scenes": 201
+   },
+   {
+    "idx": 6,
+    "kind": "recovery",
+    "label": "Sustained recovery",
+    "period": "2026",
+    "bps": 3500,
+    "targetBps": 6000,
+    "failBelowBps": 5000,
+    "scoreBps": 7499,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xa1be804db534f5b7ce6875ce1f6704d69b368ff3fd2740dd167ff22055385307",
+    "ci95": 0.0193,
+    "confident": true,
+    "scenes": 172
+   }
+  ],
+  "disturbance": null,
+  "twins": {
+   "method": "mahalanobis-knn, k=10",
+   "covariates": [
+    "preNbr",
+    "preNdvi",
+    "elev",
+    "slope",
+    "northness"
+   ],
+   "dem": "Copernicus DEM GLO-30 (Microsoft Planetary Computer)",
+   "ids": [
+    "r11c06",
+    "r57c50",
+    "r60c54",
+    "r58c50",
+    "r63c71",
+    "r28c13",
+    "r21c13",
+    "r58c52",
+    "r10c06",
+    "r17c08"
+   ],
+   "nbr": {
+    "pre": 0.3865,
+    "post": 0.4166,
+    "2022": 0.3984,
+    "2023": 0.413,
+    "2024": 0.4095,
+    "2025": 0.4193,
+    "2026": 0.4351
+   }
+  },
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "phase": "pre",
+    "nbr": 0.4237,
+    "ctrlNbr": 0.2866,
+    "adj": null
+   },
+   {
+    "q": "2020Q4",
+    "phase": "pre",
+    "nbr": 0.4931,
+    "ctrlNbr": 0.3393,
+    "adj": null
+   },
+   {
+    "q": "2021Q1",
+    "phase": "pre",
+    "nbr": 0.4529,
+    "ctrlNbr": 0.2069,
+    "adj": null
+   },
+   {
+    "q": "2021Q2",
+    "phase": "pre",
+    "nbr": 0.4179,
+    "ctrlNbr": 0.2954,
+    "adj": null
+   },
+   {
+    "q": "2021Q3",
+    "phase": "fire",
+    "nbr": -0.3492,
+    "ctrlNbr": 0.2947,
+    "adj": null
+   },
+   {
+    "q": "2021Q4",
+    "phase": "post",
+    "nbr": -0.2588,
+    "ctrlNbr": 0.3244,
+    "adj": 0.148
+   },
+   {
+    "q": "2022Q1",
+    "phase": "post",
+    "nbr": -0.1421,
+    "ctrlNbr": 0.3195,
+    "adj": 0.1423
+   },
+   {
+    "q": "2022Q2",
+    "phase": "post",
+    "nbr": -0.0636,
+    "ctrlNbr": 0.277,
+    "adj": 0.4138
+   },
+   {
+    "q": "2022Q3",
+    "phase": "post",
+    "nbr": -0.0178,
+    "ctrlNbr": 0.2855,
+    "adj": 0.4466
+   },
+   {
+    "q": "2022Q4",
+    "phase": "post",
+    "nbr": 0.0357,
+    "ctrlNbr": 0.3223,
+    "adj": 0.4909
+   },
+   {
+    "q": "2023Q1",
+    "phase": "post",
+    "nbr": 0.1122,
+    "ctrlNbr": 0.2307,
+    "adj": 0.5582
+   },
+   {
+    "q": "2023Q2",
+    "phase": "post",
+    "nbr": 0.1678,
+    "ctrlNbr": 0.2854,
+    "adj": 0.696
+   },
+   {
+    "q": "2023Q3",
+    "phase": "post",
+    "nbr": 0.1258,
+    "ctrlNbr": 0.2894,
+    "adj": 0.6221
+   },
+   {
+    "q": "2023Q4",
+    "phase": "post",
+    "nbr": 0.2088,
+    "ctrlNbr": 0.3188,
+    "adj": 0.695
+   },
+   {
+    "q": "2024Q1",
+    "phase": "post",
+    "nbr": 0.2418,
+    "ctrlNbr": 0.1926,
+    "adj": 0.7615
+   },
+   {
+    "q": "2024Q2",
+    "phase": "post",
+    "nbr": 0.1935,
+    "ctrlNbr": 0.2729,
+    "adj": 0.7445
+   },
+   {
+    "q": "2024Q3",
+    "phase": "post",
+    "nbr": 0.1594,
+    "ctrlNbr": 0.2814,
+    "adj": 0.6744
+   },
+   {
+    "q": "2024Q4",
+    "phase": "post",
+    "nbr": 0.2346,
+    "ctrlNbr": 0.3225,
+    "adj": 0.7206
+   },
+   {
+    "q": "2025Q1",
+    "phase": "post",
+    "nbr": 0.2546,
+    "ctrlNbr": 0.2162,
+    "adj": 0.7483
+   },
+   {
+    "q": "2025Q2",
+    "phase": "post",
+    "nbr": 0.2848,
+    "ctrlNbr": 0.2918,
+    "adj": 0.8361
+   },
+   {
+    "q": "2025Q3",
+    "phase": "post",
+    "nbr": 0.2086,
+    "ctrlNbr": 0.3023,
+    "adj": 0.71
+   },
+   {
+    "q": "2025Q4",
+    "phase": "post",
+    "nbr": 0.355,
+    "ctrlNbr": 0.3495,
+    "adj": 0.8286
+   },
+   {
+    "q": "2026Q1",
+    "phase": "post",
+    "nbr": 0.3139,
+    "ctrlNbr": 0.2375,
+    "adj": 0.7944
+   },
+   {
+    "q": "2026Q2",
+    "phase": "post",
+    "nbr": 0.3321,
+    "ctrlNbr": 0.3107,
+    "adj": 0.872
+   },
+   {
+    "q": "2026Q3",
+    "phase": "post",
+    "nbr": 0.237,
+    "ctrlNbr": 0.32,
+    "adj": 0.7234
+   }
+  ]
+ },
+ "plot-r59c40": {
+  "chainId": 2,
+  "periods": {
+   "pre": {
+    "ndvi": 0.5147,
+    "nbr": 0.2442,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.1808,
+    "nbr": -0.2875,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.2633,
+    "nbr": 0.0063,
+    "rr": 0.5526,
+    "adj": 0.5412
+   },
+   "2023": {
+    "ndvi": 0.395,
+    "nbr": 0.1411,
+    "rr": 0.8061,
+    "adj": 0.7158
+   },
+   "2024": {
+    "ndvi": 0.3745,
+    "nbr": 0.1292,
+    "rr": 0.7837,
+    "adj": 0.7151
+   },
+   "2025": {
+    "ndvi": 0.3845,
+    "nbr": 0.1631,
+    "rr": 0.8475,
+    "adj": 0.7122
+   },
+   "2026": {
+    "ndvi": 0.3465,
+    "nbr": 0.1497,
+    "rr": 0.8223,
+    "adj": 0.6788
+   }
+  },
+  "milestones": [
+   {
+    "idx": 0,
+    "kind": "baseline",
+    "label": "Stewardship start",
+    "period": "2021",
+    "bps": 1500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x31931fa6f2a79b5febf973fed2e2b1cd7ee5d28e90fc0523a5a05b48f1595beb",
+    "scenes": 65
+   },
+   {
+    "idx": 1,
+    "kind": "checkin",
+    "label": "Check-in Q4 2021",
+    "period": "2021Q4",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x3bdff1fbe782acfcd40464ff70b70c2c7b5364aac40c8022846429c02a3c2c77",
+    "netDrop": -0.1058,
+    "inconclusive": false,
+    "scenes": 23
+   },
+   {
+    "idx": 2,
+    "kind": "checkin",
+    "label": "Check-in Q1 2022",
+    "period": "2022Q1",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x1a9fc3d356b9ceb98900f14f73c8d3ad51b151d6649b7ee7ddbc7e5f340af6fb",
+    "netDrop": -0.1297,
+    "inconclusive": false,
+    "scenes": 19
+   },
+   {
+    "idx": 3,
+    "kind": "checkin",
+    "label": "Check-in Q2 2022",
+    "period": "2022Q2",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xec132e6abc35213fbcd261a55f3e727a14d326baa2548530073a1a4ab072fad6",
+    "netDrop": -0.0936,
+    "inconclusive": false,
+    "scenes": 60
+   },
+   {
+    "idx": 4,
+    "kind": "checkin",
+    "label": "Check-in Q3 2022",
+    "period": "2022Q3",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x2480420117b770f43e80dc665d76144840105b246e8ad0c71d7aafc0a14648dd",
+    "netDrop": 0.0117,
+    "inconclusive": false,
+    "scenes": 56
+   },
+   {
+    "idx": 5,
+    "kind": "recovery",
+    "label": "Early recovery",
+    "period": "2023",
+    "bps": 3000,
+    "targetBps": 3000,
+    "failBelowBps": 5000,
+    "scoreBps": 7158,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x12928dfd37fffef751efca01162a79600270d89467c769c41b4d8df381357df8",
+    "ci95": 0.0435,
+    "confident": true,
+    "scenes": 201
+   },
+   {
+    "idx": 6,
+    "kind": "recovery",
+    "label": "Sustained recovery",
+    "period": "2026",
+    "bps": 3500,
+    "targetBps": 6000,
+    "failBelowBps": 5000,
+    "scoreBps": 6788,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xb958e04d22ce6ade470d26d23c2152adda2156c557d0d0766b1aa12a2c927709",
+    "ci95": 0.0579,
+    "confident": true,
+    "scenes": 172
+   }
+  ],
+  "disturbance": null,
+  "twins": {
+   "method": "mahalanobis-knn, k=10",
+   "covariates": [
+    "preNbr",
+    "preNdvi",
+    "elev",
+    "slope",
+    "northness"
+   ],
+   "dem": "Copernicus DEM GLO-30 (Microsoft Planetary Computer)",
+   "ids": [
+    "r55c51",
+    "r36c05",
+    "r37c03",
+    "r34c04",
+    "r34c05",
+    "r13c05",
+    "r45c03",
+    "r35c05",
+    "r56c51",
+    "r01c04"
+   ],
+   "nbr": {
+    "pre": 0.2759,
+    "post": 0.3047,
+    "2022": 0.2819,
+    "2023": 0.3239,
+    "2024": 0.3123,
+    "2025": 0.3478,
+    "2026": 0.3521
+   }
+  },
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "phase": "pre",
+    "nbr": 0.2716,
+    "ctrlNbr": 0.2866,
+    "adj": null
+   },
+   {
+    "q": "2020Q4",
+    "phase": "pre",
+    "nbr": 0.3371,
+    "ctrlNbr": 0.3393,
+    "adj": null
+   },
+   {
+    "q": "2021Q1",
+    "phase": "pre",
+    "nbr": 0.3284,
+    "ctrlNbr": 0.2069,
+    "adj": null
+   },
+   {
+    "q": "2021Q2",
+    "phase": "pre",
+    "nbr": 0.276,
+    "ctrlNbr": 0.2954,
+    "adj": null
+   },
+   {
+    "q": "2021Q3",
+    "phase": "fire",
+    "nbr": -0.2492,
+    "ctrlNbr": 0.2947,
+    "adj": null
+   },
+   {
+    "q": "2021Q4",
+    "phase": "post",
+    "nbr": -0.1654,
+    "ctrlNbr": 0.3244,
+    "adj": 0.2192
+   },
+   {
+    "q": "2022Q1",
+    "phase": "post",
+    "nbr": -0.0407,
+    "ctrlNbr": 0.3195,
+    "adj": 0.218
+   },
+   {
+    "q": "2022Q2",
+    "phase": "post",
+    "nbr": 0.0104,
+    "ctrlNbr": 0.277,
+    "adj": 0.5614
+   },
+   {
+    "q": "2022Q3",
+    "phase": "post",
+    "nbr": 0.0072,
+    "ctrlNbr": 0.2855,
+    "adj": 0.5291
+   },
+   {
+    "q": "2022Q4",
+    "phase": "post",
+    "nbr": 0.0531,
+    "ctrlNbr": 0.3223,
+    "adj": 0.5725
+   },
+   {
+    "q": "2023Q1",
+    "phase": "post",
+    "nbr": 0.1314,
+    "ctrlNbr": 0.2307,
+    "adj": 0.6416
+   },
+   {
+    "q": "2023Q2",
+    "phase": "post",
+    "nbr": 0.1611,
+    "ctrlNbr": 0.2854,
+    "adj": 0.8138
+   },
+   {
+    "q": "2023Q3",
+    "phase": "post",
+    "nbr": 0.1238,
+    "ctrlNbr": 0.2894,
+    "adj": 0.7306
+   },
+   {
+    "q": "2023Q4",
+    "phase": "post",
+    "nbr": 0.1643,
+    "ctrlNbr": 0.3188,
+    "adj": 0.7561
+   },
+   {
+    "q": "2024Q1",
+    "phase": "post",
+    "nbr": 0.2202,
+    "ctrlNbr": 0.1926,
+    "adj": 0.8476
+   },
+   {
+    "q": "2024Q2",
+    "phase": "post",
+    "nbr": 0.1628,
+    "ctrlNbr": 0.2729,
+    "adj": 0.8392
+   },
+   {
+    "q": "2024Q3",
+    "phase": "post",
+    "nbr": 0.1075,
+    "ctrlNbr": 0.2814,
+    "adj": 0.7159
+   },
+   {
+    "q": "2024Q4",
+    "phase": "post",
+    "nbr": 0.1486,
+    "ctrlNbr": 0.3225,
+    "adj": 0.7251
+   },
+   {
+    "q": "2025Q1",
+    "phase": "post",
+    "nbr": 0.1988,
+    "ctrlNbr": 0.2162,
+    "adj": 0.7745
+   },
+   {
+    "q": "2025Q2",
+    "phase": "post",
+    "nbr": 0.2526,
+    "ctrlNbr": 0.2918,
+    "adj": 0.965
+   },
+   {
+    "q": "2025Q3",
+    "phase": "post",
+    "nbr": 0.1249,
+    "ctrlNbr": 0.3023,
+    "adj": 0.7096
+   },
+   {
+    "q": "2025Q4",
+    "phase": "post",
+    "nbr": 0.2257,
+    "ctrlNbr": 0.3495,
+    "adj": 0.8053
+   },
+   {
+    "q": "2026Q1",
+    "phase": "post",
+    "nbr": 0.2514,
+    "ctrlNbr": 0.2375,
+    "adj": 0.8253
+   },
+   {
+    "q": "2026Q2",
+    "phase": "post",
+    "nbr": 0.2483,
+    "ctrlNbr": 0.3107,
+    "adj": 0.9237
+   },
+   {
+    "q": "2026Q3",
+    "phase": "post",
+    "nbr": 0.1338,
+    "ctrlNbr": 0.32,
+    "adj": 0.6938
+   }
+  ]
+ },
+ "plot-r28c27": {
+  "chainId": 3,
+  "periods": {
+   "pre": {
+    "ndvi": 0.569,
+    "nbr": 0.3506,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.225,
+    "nbr": -0.1579,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.2271,
+    "nbr": -0.0286,
+    "rr": 0.2543,
+    "adj": 0.2688
+   },
+   "2023": {
+    "ndvi": 0.3671,
+    "nbr": 0.1475,
+    "rr": 0.6006,
+    "adj": 0.5043
+   },
+   "2024": {
+    "ndvi": 0.3627,
+    "nbr": 0.1296,
+    "rr": 0.5654,
+    "adj": 0.501
+   },
+   "2025": {
+    "ndvi": 0.3851,
+    "nbr": 0.1812,
+    "rr": 0.6669,
+    "adj": 0.5634
+   },
+   "2026": {
+    "ndvi": 0.4587,
+    "nbr": 0.2616,
+    "rr": 0.825,
+    "adj": 0.6688
+   }
+  },
+  "milestones": [
+   {
+    "idx": 0,
+    "kind": "baseline",
+    "label": "Stewardship start",
+    "period": "2021",
+    "bps": 1500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xd586cdb5c6c65ccb86c001cb76b81439c3d7d3eacced06f2e8728efd3a467e24",
+    "scenes": 65
+   },
+   {
+    "idx": 1,
+    "kind": "checkin",
+    "label": "Check-in Q4 2021",
+    "period": "2021Q4",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x91292ec519900f55858e4283accc22e904c194491aed28d78dbb00a1a5e194d9",
+    "netDrop": -0.0658,
+    "inconclusive": false,
+    "scenes": 23
+   },
+   {
+    "idx": 2,
+    "kind": "checkin",
+    "label": "Check-in Q1 2022",
+    "period": "2022Q1",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x573a3608429e0ba7a57243d8c94adbe08e5a588050809832528b52c86454ce7f",
+    "netDrop": -0.0031,
+    "inconclusive": false,
+    "scenes": 19
+   },
+   {
+    "idx": 3,
+    "kind": "checkin",
+    "label": "Check-in Q2 2022",
+    "period": "2022Q2",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x2caa02f0836820eac7520bd95341bbb58ff6c9afdd322414ac78ca7fab881fd8",
+    "netDrop": -0.0837,
+    "inconclusive": false,
+    "scenes": 60
+   },
+   {
+    "idx": 4,
+    "kind": "checkin",
+    "label": "Check-in Q3 2022",
+    "period": "2022Q3",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x0d5ca0820a112076bbd0918b84a49c838ba1505207963c320d9eae27494f4a31",
+    "netDrop": -0.0095,
+    "inconclusive": false,
+    "scenes": 56
+   },
+   {
+    "idx": 5,
+    "kind": "recovery",
+    "label": "Early recovery",
+    "period": "2023",
+    "bps": 3000,
+    "targetBps": 3000,
+    "failBelowBps": 5000,
+    "scoreBps": 5043,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xe1dc81c2959488e21bc98c0a152d6d587cfa23f3cab8ba9ff064ae3426d81993",
+    "ci95": 0.0566,
+    "confident": true,
+    "scenes": 201
+   },
+   {
+    "idx": 6,
+    "kind": "recovery",
+    "label": "Sustained recovery",
+    "period": "2026",
+    "bps": 3500,
+    "targetBps": 6000,
+    "failBelowBps": 5000,
+    "scoreBps": 6688,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x5b4a88dc9c344fb68529e90cfbe9d4696766b92b53bb27061d2fa12373200409",
+    "ci95": 0.0462,
+    "confident": true,
+    "scenes": 172
+   }
+  ],
+  "disturbance": null,
+  "twins": {
+   "method": "mahalanobis-knn, k=10",
+   "covariates": [
+    "preNbr",
+    "preNdvi",
+    "elev",
+    "slope",
+    "northness"
+   ],
+   "dem": "Copernicus DEM GLO-30 (Microsoft Planetary Computer)",
+   "ids": [
+    "r67c68",
+    "r52c71",
+    "r56c77",
+    "r57c73",
+    "r09c08",
+    "r57c74",
+    "r53c71",
+    "r67c67",
+    "r52c64",
+    "r61c60"
+   ],
+   "nbr": {
+    "pre": 0.3538,
+    "post": 0.3687,
+    "2022": 0.3464,
+    "2023": 0.4027,
+    "2024": 0.3865,
+    "2025": 0.4064,
+    "2026": 0.4332
+   }
+  },
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "phase": "pre",
+    "nbr": 0.3463,
+    "ctrlNbr": 0.2866,
+    "adj": null
+   },
+   {
+    "q": "2020Q4",
+    "phase": "pre",
+    "nbr": 0.4371,
+    "ctrlNbr": 0.3393,
+    "adj": null
+   },
+   {
+    "q": "2021Q1",
+    "phase": "pre",
+    "nbr": 0.3899,
+    "ctrlNbr": 0.2069,
+    "adj": null
+   },
+   {
+    "q": "2021Q2",
+    "phase": "pre",
+    "nbr": 0.35,
+    "ctrlNbr": 0.2954,
+    "adj": null
+   },
+   {
+    "q": "2021Q3",
+    "phase": "fire",
+    "nbr": -0.1252,
+    "ctrlNbr": 0.2947,
+    "adj": null
+   },
+   {
+    "q": "2021Q4",
+    "phase": "post",
+    "nbr": -0.0758,
+    "ctrlNbr": 0.3244,
+    "adj": 0.1629
+   },
+   {
+    "q": "2022Q1",
+    "phase": "post",
+    "nbr": -0.0777,
+    "ctrlNbr": 0.3195,
+    "adj": -0.059
+   },
+   {
+    "q": "2022Q2",
+    "phase": "post",
+    "nbr": -0.0365,
+    "ctrlNbr": 0.277,
+    "adj": 0.2754
+   },
+   {
+    "q": "2022Q3",
+    "phase": "post",
+    "nbr": -0.0185,
+    "ctrlNbr": 0.2855,
+    "adj": 0.2787
+   },
+   {
+    "q": "2022Q4",
+    "phase": "post",
+    "nbr": 0.0179,
+    "ctrlNbr": 0.3223,
+    "adj": 0.324
+   },
+   {
+    "q": "2023Q1",
+    "phase": "post",
+    "nbr": 0.0578,
+    "ctrlNbr": 0.2307,
+    "adj": 0.3504
+   },
+   {
+    "q": "2023Q2",
+    "phase": "post",
+    "nbr": 0.184,
+    "ctrlNbr": 0.2854,
+    "adj": 0.6929
+   },
+   {
+    "q": "2023Q3",
+    "phase": "post",
+    "nbr": 0.1309,
+    "ctrlNbr": 0.2894,
+    "adj": 0.5672
+   },
+   {
+    "q": "2023Q4",
+    "phase": "post",
+    "nbr": 0.117,
+    "ctrlNbr": 0.3188,
+    "adj": 0.4964
+   },
+   {
+    "q": "2024Q1",
+    "phase": "post",
+    "nbr": 0.1067,
+    "ctrlNbr": 0.1926,
+    "adj": 0.5092
+   },
+   {
+    "q": "2024Q2",
+    "phase": "post",
+    "nbr": 0.1572,
+    "ctrlNbr": 0.2729,
+    "adj": 0.6648
+   },
+   {
+    "q": "2024Q3",
+    "phase": "post",
+    "nbr": 0.1256,
+    "ctrlNbr": 0.2814,
+    "adj": 0.5727
+   },
+   {
+    "q": "2024Q4",
+    "phase": "post",
+    "nbr": 0.1863,
+    "ctrlNbr": 0.3225,
+    "adj": 0.6067
+   },
+   {
+    "q": "2025Q1",
+    "phase": "post",
+    "nbr": 0.1445,
+    "ctrlNbr": 0.2162,
+    "adj": 0.535
+   },
+   {
+    "q": "2025Q2",
+    "phase": "post",
+    "nbr": 0.2011,
+    "ctrlNbr": 0.2918,
+    "adj": 0.7141
+   },
+   {
+    "q": "2025Q3",
+    "phase": "post",
+    "nbr": 0.1744,
+    "ctrlNbr": 0.3023,
+    "adj": 0.628
+   },
+   {
+    "q": "2025Q4",
+    "phase": "post",
+    "nbr": 0.2337,
+    "ctrlNbr": 0.3495,
+    "adj": 0.641
+   },
+   {
+    "q": "2026Q1",
+    "phase": "post",
+    "nbr": 0.1989,
+    "ctrlNbr": 0.2375,
+    "adj": 0.5955
+   },
+   {
+    "q": "2026Q2",
+    "phase": "post",
+    "nbr": 0.3005,
+    "ctrlNbr": 0.3107,
+    "adj": 0.8724
+   },
+   {
+    "q": "2026Q3",
+    "phase": "post",
+    "nbr": 0.2474,
+    "ctrlNbr": 0.32,
+    "adj": 0.7376
+   }
+  ]
+ },
+ "plot-r42c36": {
+  "chainId": 4,
+  "periods": {
+   "pre": {
+    "ndvi": 0.5345,
+    "nbr": 0.3181,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.223,
+    "nbr": -0.0989,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.1517,
+    "nbr": -0.0382,
+    "rr": 0.1456,
+    "adj": 0.1262
+   },
+   "2023": {
+    "ndvi": 0.2514,
+    "nbr": 0.0458,
+    "rr": 0.347,
+    "adj": 0.2623
+   },
+   "2024": {
+    "ndvi": 0.2879,
+    "nbr": 0.0872,
+    "rr": 0.4463,
+    "adj": 0.403
+   },
+   "2025": {
+    "ndvi": 0.3512,
+    "nbr": 0.1693,
+    "rr": 0.6432,
+    "adj": 0.5532
+   },
+   "2026": {
+    "ndvi": 0.3787,
+    "nbr": 0.1682,
+    "rr": 0.6405,
+    "adj": 0.5174
+   }
+  },
+  "milestones": [
+   {
+    "idx": 0,
+    "kind": "baseline",
+    "label": "Stewardship start",
+    "period": "2021",
+    "bps": 1500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x0c210b7ab7c03a5dfcb4d99f3f6885ff18d882c01603519c8c8b23166b3e0ab3",
+    "scenes": 65
+   },
+   {
+    "idx": 1,
+    "kind": "checkin",
+    "label": "Check-in Q4 2021",
+    "period": "2021Q4",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x24e3b07f110ae419733db95ad28129dbac3767c0e3993d024be64da50c2e446c",
+    "netDrop": -0.0673,
+    "inconclusive": false,
+    "scenes": 23
+   },
+   {
+    "idx": 2,
+    "kind": "checkin",
+    "label": "Check-in Q1 2022",
+    "period": "2022Q1",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xde8ab45e5b6465fb39279ab0da7e8f6a05a448d6b89c1c280258288ca6affd7a",
+    "netDrop": 0.0277,
+    "inconclusive": false,
+    "scenes": 19
+   },
+   {
+    "idx": 3,
+    "kind": "checkin",
+    "label": "Check-in Q2 2022",
+    "period": "2022Q2",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xe682581ca9a9289d830302b9db5f0dfbbda907efe30ce30608474293da701f17",
+    "netDrop": -0.0448,
+    "inconclusive": false,
+    "scenes": 60
+   },
+   {
+    "idx": 4,
+    "kind": "checkin",
+    "label": "Check-in Q3 2022",
+    "period": "2022Q3",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xb29456c47086dd243296cdb63000a98432b6418e6dcb8d47083015dd80ab031e",
+    "netDrop": -0.0147,
+    "inconclusive": false,
+    "scenes": 56
+   },
+   {
+    "idx": 5,
+    "kind": "recovery",
+    "label": "Early recovery",
+    "period": "2023",
+    "bps": 3000,
+    "targetBps": 3000,
+    "failBelowBps": 5000,
+    "scoreBps": 2623,
+    "fractionBps": 8743,
+    "outcome": "partial",
+    "evidenceHash": "0x416c8a5c330d40c96bcb2fa3526fbfa4f60312f6ada6802e19a632d24516eccc",
+    "ci95": 0.0446,
+    "confident": false,
+    "scenes": 201
+   },
+   {
+    "idx": 6,
+    "kind": "recovery",
+    "label": "Sustained recovery",
+    "period": "2026",
+    "bps": 3500,
+    "targetBps": 6000,
+    "failBelowBps": 5000,
+    "scoreBps": 5174,
+    "fractionBps": 8623,
+    "outcome": "partial",
+    "evidenceHash": "0xff94ae61175d36e29f96f883a79042293c209ae004885e1a7a93c7efd8b52e37",
+    "ci95": 0.0406,
+    "confident": true,
+    "scenes": 172
+   }
+  ],
+  "disturbance": null,
+  "twins": {
+   "method": "mahalanobis-knn, k=10",
+   "covariates": [
+    "preNbr",
+    "preNdvi",
+    "elev",
+    "slope",
+    "northness"
+   ],
+   "dem": "Copernicus DEM GLO-30 (Microsoft Planetary Computer)",
+   "ids": [
+    "r57c53",
+    "r35c04",
+    "r62c48",
+    "r36c04",
+    "r63c52",
+    "r35c00",
+    "r60c47",
+    "r13c07",
+    "r55c52",
+    "r56c52"
+   ],
+   "nbr": {
+    "pre": 0.3091,
+    "post": 0.3366,
+    "2022": 0.3172,
+    "2023": 0.3445,
+    "2024": 0.3272,
+    "2025": 0.3467,
+    "2026": 0.3605
+   }
+  },
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "phase": "pre",
+    "nbr": 0.3391,
+    "ctrlNbr": 0.2866,
+    "adj": null
+   },
+   {
+    "q": "2020Q4",
+    "phase": "pre",
+    "nbr": 0.4523,
+    "ctrlNbr": 0.3393,
+    "adj": null
+   },
+   {
+    "q": "2021Q1",
+    "phase": "pre",
+    "nbr": 0.3778,
+    "ctrlNbr": 0.2069,
+    "adj": null
+   },
+   {
+    "q": "2021Q2",
+    "phase": "pre",
+    "nbr": 0.3206,
+    "ctrlNbr": 0.2954,
+    "adj": null
+   },
+   {
+    "q": "2021Q3",
+    "phase": "fire",
+    "nbr": -0.0729,
+    "ctrlNbr": 0.2947,
+    "adj": null
+   },
+   {
+    "q": "2021Q4",
+    "phase": "post",
+    "nbr": -0.0153,
+    "ctrlNbr": 0.3244,
+    "adj": 0.1786
+   },
+   {
+    "q": "2022Q1",
+    "phase": "post",
+    "nbr": -0.048,
+    "ctrlNbr": 0.3195,
+    "adj": -0.1293
+   },
+   {
+    "q": "2022Q2",
+    "phase": "post",
+    "nbr": -0.0457,
+    "ctrlNbr": 0.277,
+    "adj": 0.1708
+   },
+   {
+    "q": "2022Q3",
+    "phase": "post",
+    "nbr": -0.0225,
+    "ctrlNbr": 0.2855,
+    "adj": 0.177
+   },
+   {
+    "q": "2022Q4",
+    "phase": "post",
+    "nbr": -0.008,
+    "ctrlNbr": 0.3223,
+    "adj": 0.1957
+   },
+   {
+    "q": "2023Q1",
+    "phase": "post",
+    "nbr": 0.0099,
+    "ctrlNbr": 0.2307,
+    "adj": 0.1784
+   },
+   {
+    "q": "2023Q2",
+    "phase": "post",
+    "nbr": 0.0933,
+    "ctrlNbr": 0.2854,
+    "adj": 0.482
+   },
+   {
+    "q": "2023Q3",
+    "phase": "post",
+    "nbr": 0.0394,
+    "ctrlNbr": 0.2894,
+    "adj": 0.3094
+   },
+   {
+    "q": "2023Q4",
+    "phase": "post",
+    "nbr": 0.0982,
+    "ctrlNbr": 0.3188,
+    "adj": 0.3947
+   },
+   {
+    "q": "2024Q1",
+    "phase": "post",
+    "nbr": 0.1271,
+    "ctrlNbr": 0.1926,
+    "adj": 0.5042
+   },
+   {
+    "q": "2024Q2",
+    "phase": "post",
+    "nbr": 0.1282,
+    "ctrlNbr": 0.2729,
+    "adj": 0.5952
+   },
+   {
+    "q": "2024Q3",
+    "phase": "post",
+    "nbr": 0.0837,
+    "ctrlNbr": 0.2814,
+    "adj": 0.4288
+   },
+   {
+    "q": "2024Q4",
+    "phase": "post",
+    "nbr": 0.1486,
+    "ctrlNbr": 0.3225,
+    "adj": 0.4794
+   },
+   {
+    "q": "2025Q1",
+    "phase": "post",
+    "nbr": 0.1744,
+    "ctrlNbr": 0.2162,
+    "adj": 0.5538
+   },
+   {
+    "q": "2025Q2",
+    "phase": "post",
+    "nbr": 0.2361,
+    "ctrlNbr": 0.2918,
+    "adj": 0.8073
+   },
+   {
+    "q": "2025Q3",
+    "phase": "post",
+    "nbr": 0.1555,
+    "ctrlNbr": 0.3023,
+    "adj": 0.5451
+   },
+   {
+    "q": "2025Q4",
+    "phase": "post",
+    "nbr": 0.2066,
+    "ctrlNbr": 0.3495,
+    "adj": 0.5357
+   },
+   {
+    "q": "2026Q1",
+    "phase": "post",
+    "nbr": 0.1956,
+    "ctrlNbr": 0.2375,
+    "adj": 0.5536
+   },
+   {
+    "q": "2026Q2",
+    "phase": "post",
+    "nbr": 0.2597,
+    "ctrlNbr": 0.3107,
+    "adj": 0.8184
+   },
+   {
+    "q": "2026Q3",
+    "phase": "post",
+    "nbr": 0.1601,
+    "ctrlNbr": 0.32,
+    "adj": 0.5151
+   }
+  ]
+ },
+ "plot-r45c33": {
+  "chainId": 5,
+  "periods": {
+   "pre": {
+    "ndvi": 0.566,
+    "nbr": 0.3574,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.2122,
+    "nbr": -0.2516,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.1862,
+    "nbr": -0.0976,
+    "rr": 0.2529,
+    "adj": 0.2366
+   },
+   "2023": {
+    "ndvi": 0.2863,
+    "nbr": 0.0031,
+    "rr": 0.4182,
+    "adj": 0.3515
+   },
+   "2024": {
+    "ndvi": 0.2583,
+    "nbr": 0.0169,
+    "rr": 0.4409,
+    "adj": 0.4058
+   },
+   "2025": {
+    "ndvi": 0.3255,
+    "nbr": 0.125,
+    "rr": 0.6184,
+    "adj": 0.5757
+   },
+   "2026": {
+    "ndvi": 0.3545,
+    "nbr": 0.1275,
+    "rr": 0.6225,
+    "adj": 0.5262
+   }
+  },
+  "milestones": [
+   {
+    "idx": 0,
+    "kind": "baseline",
+    "label": "Stewardship start",
+    "period": "2021",
+    "bps": 1500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xa8ce5ec4eaa20d0dbb0039c5501df553082de3d5abdf7203d042d189977fa6c7",
+    "scenes": 65
+   },
+   {
+    "idx": 1,
+    "kind": "checkin",
+    "label": "Check-in Q4 2021",
+    "period": "2021Q4",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x647b812ae38cfeb0be7b7fd01305189bc1c79a79682af0c59cdb7a4a5186b611",
+    "netDrop": -0.0847,
+    "inconclusive": false,
+    "scenes": 23
+   },
+   {
+    "idx": 2,
+    "kind": "checkin",
+    "label": "Check-in Q1 2022",
+    "period": "2022Q1",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xc3114a475d1cfa5f9d0f826f1f34e9f26498f3ed47c181a44fd8a2993c8b0658",
+    "netDrop": -0.0343,
+    "inconclusive": false,
+    "scenes": 19
+   },
+   {
+    "idx": 3,
+    "kind": "checkin",
+    "label": "Check-in Q2 2022",
+    "period": "2022Q2",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xb46a49270f85a616502086334f2984387af73ffdb9c8dff6e00073f3347132fd",
+    "netDrop": -0.0559,
+    "inconclusive": false,
+    "scenes": 60
+   },
+   {
+    "idx": 4,
+    "kind": "checkin",
+    "label": "Check-in Q3 2022",
+    "period": "2022Q3",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xed2dd32adb79a73e90efd2fa9137713962e337fecba60b9420f58187b07b5bf0",
+    "netDrop": -0.0047,
+    "inconclusive": false,
+    "scenes": 56
+   },
+   {
+    "idx": 5,
+    "kind": "recovery",
+    "label": "Early recovery",
+    "period": "2023",
+    "bps": 3000,
+    "targetBps": 3000,
+    "failBelowBps": 5000,
+    "scoreBps": 3515,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x09471587cace882d5ed1ccda8d63e2f09e0f41763caa70be7368888e5930764d",
+    "ci95": 0.0364,
+    "confident": true,
+    "scenes": 201
+   },
+   {
+    "idx": 6,
+    "kind": "recovery",
+    "label": "Sustained recovery",
+    "period": "2026",
+    "bps": 3500,
+    "targetBps": 6000,
+    "failBelowBps": 5000,
+    "scoreBps": 5262,
+    "fractionBps": 8770,
+    "outcome": "partial",
+    "evidenceHash": "0x7863b57fa1f0d7a70d9370f037836dd7f9560ab6682cad6dd8ea1fb21db2ca31",
+    "ci95": 0.0303,
+    "confident": true,
+    "scenes": 172
+   }
+  ],
+  "disturbance": null,
+  "twins": {
+   "method": "mahalanobis-knn, k=10",
+   "covariates": [
+    "preNbr",
+    "preNdvi",
+    "elev",
+    "slope",
+    "northness"
+   ],
+   "dem": "Copernicus DEM GLO-30 (Microsoft Planetary Computer)",
+   "ids": [
+    "r59c57",
+    "r63c52",
+    "r61c45",
+    "r67c58",
+    "r61c48",
+    "r69c66",
+    "r63c54",
+    "r66c58",
+    "r67c62",
+    "r57c53"
+   ],
+   "nbr": {
+    "pre": 0.3275,
+    "post": 0.3584,
+    "2022": 0.3374,
+    "2023": 0.3681,
+    "2024": 0.3489,
+    "2025": 0.3535,
+    "2026": 0.3861
+   }
+  },
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "phase": "pre",
+    "nbr": 0.38,
+    "ctrlNbr": 0.2866,
+    "adj": null
+   },
+   {
+    "q": "2020Q4",
+    "phase": "pre",
+    "nbr": 0.4881,
+    "ctrlNbr": 0.3393,
+    "adj": null
+   },
+   {
+    "q": "2021Q1",
+    "phase": "pre",
+    "nbr": 0.4622,
+    "ctrlNbr": 0.2069,
+    "adj": null
+   },
+   {
+    "q": "2021Q2",
+    "phase": "pre",
+    "nbr": 0.3751,
+    "ctrlNbr": 0.2954,
+    "adj": null
+   },
+   {
+    "q": "2021Q3",
+    "phase": "fire",
+    "nbr": -0.2219,
+    "ctrlNbr": 0.2947,
+    "adj": null
+   },
+   {
+    "q": "2021Q4",
+    "phase": "post",
+    "nbr": -0.1506,
+    "ctrlNbr": 0.3244,
+    "adj": 0.1566
+   },
+   {
+    "q": "2022Q1",
+    "phase": "post",
+    "nbr": -0.1213,
+    "ctrlNbr": 0.3195,
+    "adj": 0.0249
+   },
+   {
+    "q": "2022Q2",
+    "phase": "post",
+    "nbr": -0.1079,
+    "ctrlNbr": 0.277,
+    "adj": 0.2588
+   },
+   {
+    "q": "2022Q3",
+    "phase": "post",
+    "nbr": -0.0947,
+    "ctrlNbr": 0.2855,
+    "adj": 0.2502
+   },
+   {
+    "q": "2022Q4",
+    "phase": "post",
+    "nbr": -0.0696,
+    "ctrlNbr": 0.3223,
+    "adj": 0.269
+   },
+   {
+    "q": "2023Q1",
+    "phase": "post",
+    "nbr": -0.0021,
+    "ctrlNbr": 0.2307,
+    "adj": 0.3162
+   },
+   {
+    "q": "2023Q2",
+    "phase": "post",
+    "nbr": 0.0927,
+    "ctrlNbr": 0.2854,
+    "adj": 0.5653
+   },
+   {
+    "q": "2023Q3",
+    "phase": "post",
+    "nbr": -0.0106,
+    "ctrlNbr": 0.2894,
+    "adj": 0.3771
+   },
+   {
+    "q": "2023Q4",
+    "phase": "post",
+    "nbr": 0.0849,
+    "ctrlNbr": 0.3188,
+    "adj": 0.4826
+   },
+   {
+    "q": "2024Q1",
+    "phase": "post",
+    "nbr": 0.1176,
+    "ctrlNbr": 0.1926,
+    "adj": 0.5374
+   },
+   {
+    "q": "2024Q2",
+    "phase": "post",
+    "nbr": 0.0268,
+    "ctrlNbr": 0.2729,
+    "adj": 0.4802
+   },
+   {
+    "q": "2024Q3",
+    "phase": "post",
+    "nbr": 0.0176,
+    "ctrlNbr": 0.2814,
+    "adj": 0.4345
+   },
+   {
+    "q": "2024Q4",
+    "phase": "post",
+    "nbr": 0.0579,
+    "ctrlNbr": 0.3225,
+    "adj": 0.4411
+   },
+   {
+    "q": "2025Q1",
+    "phase": "post",
+    "nbr": 0.1149,
+    "ctrlNbr": 0.2162,
+    "adj": 0.5004
+   },
+   {
+    "q": "2025Q2",
+    "phase": "post",
+    "nbr": 0.1933,
+    "ctrlNbr": 0.2918,
+    "adj": 0.7158
+   },
+   {
+    "q": "2025Q3",
+    "phase": "post",
+    "nbr": 0.107,
+    "ctrlNbr": 0.3023,
+    "adj": 0.543
+   },
+   {
+    "q": "2025Q4",
+    "phase": "post",
+    "nbr": 0.1472,
+    "ctrlNbr": 0.3495,
+    "adj": 0.5253
+   },
+   {
+    "q": "2026Q1",
+    "phase": "post",
+    "nbr": 0.1741,
+    "ctrlNbr": 0.2375,
+    "adj": 0.5535
+   },
+   {
+    "q": "2026Q2",
+    "phase": "post",
+    "nbr": 0.2645,
+    "ctrlNbr": 0.3107,
+    "adj": 0.7991
+   },
+   {
+    "q": "2026Q3",
+    "phase": "post",
+    "nbr": 0.1185,
+    "ctrlNbr": 0.32,
+    "adj": 0.5331
+   }
+  ]
+ },
+ "plot-r24c26": {
+  "chainId": 6,
+  "periods": {
+   "pre": {
+    "ndvi": 0.57,
+    "nbr": 0.3581,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.2745,
+    "nbr": 0.0601,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.1844,
+    "nbr": -0.0696,
+    "rr": 0.0,
+    "adj": -0.4347
+   },
+   "2023": {
+    "ndvi": 0.2366,
+    "nbr": -0.0187,
+    "rr": 0.0,
+    "adj": -0.4321
+   },
+   "2024": {
+    "ndvi": 0.2348,
+    "nbr": -0.0282,
+    "rr": 0.0,
+    "adj": -0.4034
+   },
+   "2025": {
+    "ndvi": 0.2792,
+    "nbr": 0.0604,
+    "rr": 0.001,
+    "adj": -0.1515
+   },
+   "2026": {
+    "ndvi": 0.3409,
+    "nbr": 0.1011,
+    "rr": 0.1376,
+    "adj": -0.1064
+   }
+  },
+  "milestones": [
+   {
+    "idx": 0,
+    "kind": "baseline",
+    "label": "Stewardship start",
+    "period": "2021",
+    "bps": 1500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x222d14f276cb63e8bd344fcafe9cb997133ace09f7e427009ca49717191523aa",
+    "scenes": 65
+   },
+   {
+    "idx": 1,
+    "kind": "checkin",
+    "label": "Check-in Q4 2021",
+    "period": "2021Q4",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xa76d5278fbf114a2ac79e6cdd3f65fb41e2eabf7f09bfe186670a7173f91ca81",
+    "netDrop": 0.0243,
+    "inconclusive": false,
+    "scenes": 23
+   },
+   {
+    "idx": 2,
+    "kind": "checkin",
+    "label": "Check-in Q1 2022",
+    "period": "2022Q1",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 0,
+    "fractionBps": 0,
+    "outcome": "missed",
+    "evidenceHash": "0x79256adced99ff6329eebff4b7671dd42a6895b88a602596bfa9eb4bcb75375c",
+    "netDrop": 0.1255,
+    "inconclusive": false,
+    "scenes": 19
+   },
+   {
+    "idx": 3,
+    "kind": "checkin",
+    "label": "Check-in Q2 2022",
+    "period": "2022Q2",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xff32203c2e19a2ec4170a37f9a444486743813fbb5b7638cca2bf127f4ef7924",
+    "netDrop": -0.0399,
+    "inconclusive": false,
+    "scenes": 60
+   },
+   {
+    "idx": 4,
+    "kind": "checkin",
+    "label": "Check-in Q3 2022",
+    "period": "2022Q3",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x37a93d5901e3299e53f1c8fce5f5ed006f1896e52076c37d8895d5de70ef1576",
+    "netDrop": -0.0103,
+    "inconclusive": false,
+    "scenes": 56
+   },
+   {
+    "idx": 5,
+    "kind": "recovery",
+    "label": "Early recovery",
+    "period": "2023",
+    "bps": 3000,
+    "targetBps": 3000,
+    "failBelowBps": 5000,
+    "scoreBps": -4321,
+    "fractionBps": 0,
+    "outcome": "fail",
+    "evidenceHash": "0x01c2a6943baf02887df3a726541ceda458964ebae2cb74bc51fd7f202781ad86",
+    "ci95": 0.0587,
+    "confident": true,
+    "scenes": 201
+   },
+   {
+    "idx": 6,
+    "kind": "recovery",
+    "label": "Sustained recovery",
+    "period": "2026",
+    "bps": 3500,
+    "targetBps": 6000,
+    "failBelowBps": 5000,
+    "scoreBps": -1064,
+    "fractionBps": 0,
+    "outcome": "not reached",
+    "evidenceHash": "0xa9a6d40b9e412a4c36b02cf696a03992a51654d32e1adf2696fb0bd7ccaf681a",
+    "ci95": 0.06,
+    "confident": true,
+    "scenes": 172
+   }
+  ],
+  "disturbance": null,
+  "twins": {
+   "method": "mahalanobis-knn, k=10",
+   "covariates": [
+    "preNbr",
+    "preNdvi",
+    "elev",
+    "slope",
+    "northness"
+   ],
+   "dem": "Copernicus DEM GLO-30 (Microsoft Planetary Computer)",
+   "ids": [
+    "r66c58",
+    "r57c67",
+    "r65c71",
+    "r53c64",
+    "r66c56",
+    "r67c66",
+    "r43c68",
+    "r57c69",
+    "r67c69",
+    "r53c60"
+   ],
+   "nbr": {
+    "pre": 0.3403,
+    "post": 0.3753,
+    "2022": 0.3401,
+    "2023": 0.3902,
+    "2024": 0.3722,
+    "2025": 0.3857,
+    "2026": 0.413
+   }
+  },
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "phase": "pre",
+    "nbr": 0.4347,
+    "ctrlNbr": 0.2866,
+    "adj": null
+   },
+   {
+    "q": "2020Q4",
+    "phase": "pre",
+    "nbr": 0.5724,
+    "ctrlNbr": 0.3393,
+    "adj": null
+   },
+   {
+    "q": "2021Q1",
+    "phase": "pre",
+    "nbr": 0.4807,
+    "ctrlNbr": 0.2069,
+    "adj": null
+   },
+   {
+    "q": "2021Q2",
+    "phase": "pre",
+    "nbr": 0.3673,
+    "ctrlNbr": 0.2954,
+    "adj": null
+   },
+   {
+    "q": "2021Q3",
+    "phase": "fire",
+    "nbr": 0.0832,
+    "ctrlNbr": 0.2947,
+    "adj": null
+   },
+   {
+    "q": "2021Q4",
+    "phase": "post",
+    "nbr": 0.0521,
+    "ctrlNbr": 0.3244,
+    "adj": 0.0133
+   },
+   {
+    "q": "2022Q1",
+    "phase": "post",
+    "nbr": -0.0784,
+    "ctrlNbr": 0.3195,
+    "adj": -0.5968
+   },
+   {
+    "q": "2022Q2",
+    "phase": "post",
+    "nbr": -0.081,
+    "ctrlNbr": 0.277,
+    "adj": -0.3992
+   },
+   {
+    "q": "2022Q3",
+    "phase": "post",
+    "nbr": -0.0622,
+    "ctrlNbr": 0.2855,
+    "adj": -0.3235
+   },
+   {
+    "q": "2022Q4",
+    "phase": "post",
+    "nbr": -0.0492,
+    "ctrlNbr": 0.3223,
+    "adj": -0.1802
+   },
+   {
+    "q": "2023Q1",
+    "phase": "post",
+    "nbr": -0.0525,
+    "ctrlNbr": 0.2307,
+    "adj": -0.3242
+   },
+   {
+    "q": "2023Q2",
+    "phase": "post",
+    "nbr": 0.0433,
+    "ctrlNbr": 0.2854,
+    "adj": -0.0221
+   },
+   {
+    "q": "2023Q3",
+    "phase": "post",
+    "nbr": -0.0253,
+    "ctrlNbr": 0.2894,
+    "adj": -0.2355
+   },
+   {
+    "q": "2023Q4",
+    "phase": "post",
+    "nbr": -0.0456,
+    "ctrlNbr": 0.3188,
+    "adj": -0.1664
+   },
+   {
+    "q": "2024Q1",
+    "phase": "post",
+    "nbr": -0.0219,
+    "ctrlNbr": 0.1926,
+    "adj": -0.1608
+   },
+   {
+    "q": "2024Q2",
+    "phase": "post",
+    "nbr": 0.0174,
+    "ctrlNbr": 0.2729,
+    "adj": -0.0655
+   },
+   {
+    "q": "2024Q3",
+    "phase": "post",
+    "nbr": -0.0364,
+    "ctrlNbr": 0.2814,
+    "adj": -0.2436
+   },
+   {
+    "q": "2024Q4",
+    "phase": "post",
+    "nbr": 0.0116,
+    "ctrlNbr": 0.3225,
+    "adj": -0.0619
+   },
+   {
+    "q": "2025Q1",
+    "phase": "post",
+    "nbr": 0.0302,
+    "ctrlNbr": 0.2162,
+    "adj": -0.0932
+   },
+   {
+    "q": "2025Q2",
+    "phase": "post",
+    "nbr": 0.1119,
+    "ctrlNbr": 0.2918,
+    "adj": 0.1806
+   },
+   {
+    "q": "2025Q3",
+    "phase": "post",
+    "nbr": 0.0507,
+    "ctrlNbr": 0.3023,
+    "adj": -0.0669
+   },
+   {
+    "q": "2025Q4",
+    "phase": "post",
+    "nbr": 0.0717,
+    "ctrlNbr": 0.3495,
+    "adj": 0.0027
+   },
+   {
+    "q": "2026Q1",
+    "phase": "post",
+    "nbr": 0.089,
+    "ctrlNbr": 0.2375,
+    "adj": -0.004
+   },
+   {
+    "q": "2026Q2",
+    "phase": "post",
+    "nbr": 0.1783,
+    "ctrlNbr": 0.3107,
+    "adj": 0.335
+   },
+   {
+    "q": "2026Q3",
+    "phase": "post",
+    "nbr": 0.0946,
+    "ctrlNbr": 0.32,
+    "adj": 0.0029
+   }
+  ]
+ },
+ "plot-r22c22": {
+  "chainId": 7,
+  "periods": {
+   "pre": {
+    "ndvi": 0.6183,
+    "nbr": 0.4287,
+    "rr": null,
+    "adj": null
+   },
+   "post": {
+    "ndvi": 0.3426,
+    "nbr": 0.1425,
+    "rr": null,
+    "adj": null
+   },
+   "2022": {
+    "ndvi": 0.2801,
+    "nbr": 0.0351,
+    "rr": 0.0,
+    "adj": -0.461
+   },
+   "2023": {
+    "ndvi": 0.295,
+    "nbr": 0.0691,
+    "rr": 0.0,
+    "adj": -0.4077
+   },
+   "2024": {
+    "ndvi": 0.323,
+    "nbr": 0.0839,
+    "rr": 0.0,
+    "adj": -0.3645
+   },
+   "2025": {
+    "ndvi": 0.3732,
+    "nbr": 0.1675,
+    "rr": 0.0874,
+    "adj": -0.0673
+   },
+   "2026": {
+    "ndvi": 0.4283,
+    "nbr": 0.1939,
+    "rr": 0.1796,
+    "adj": -0.0359
+   }
+  },
+  "milestones": [
+   {
+    "idx": 0,
+    "kind": "baseline",
+    "label": "Stewardship start",
+    "period": "2021",
+    "bps": 1500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0xc3f82b6b8741f5bc0a032f0fde6a5010f591adacc9f168aad6f60e726835349b",
+    "scenes": 65
+   },
+   {
+    "idx": 1,
+    "kind": "checkin",
+    "label": "Check-in Q4 2021",
+    "period": "2021Q4",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x7b34bfe3f9b6f75cdcda1671bc26a9e5711296feee608942a08c6a00f4e0636a",
+    "netDrop": -0.0497,
+    "inconclusive": false,
+    "scenes": 23
+   },
+   {
+    "idx": 2,
+    "kind": "checkin",
+    "label": "Check-in Q1 2022",
+    "period": "2022Q1",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 0,
+    "fractionBps": 0,
+    "outcome": "missed",
+    "evidenceHash": "0x4bcf8eb61ea218cf2b040c036ab3aa710595af26f85e76f0b24ab7cb63c99e80",
+    "netDrop": 0.1998,
+    "inconclusive": false,
+    "scenes": 19
+   },
+   {
+    "idx": 3,
+    "kind": "checkin",
+    "label": "Check-in Q2 2022",
+    "period": "2022Q2",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x3fd37a3fdcb2fd6a5cdf879c4b1aed99e98c9668c3fcde45145109dd218766bc",
+    "netDrop": -0.0427,
+    "inconclusive": false,
+    "scenes": 60
+   },
+   {
+    "idx": 4,
+    "kind": "checkin",
+    "label": "Check-in Q3 2022",
+    "period": "2022Q3",
+    "bps": 500,
+    "targetBps": null,
+    "failBelowBps": null,
+    "scoreBps": 10000,
+    "fractionBps": 10000,
+    "outcome": "paid",
+    "evidenceHash": "0x1de1132bfb18ef0bcdaca83bde211e102510ec0a7590ac2b958dd4fb6f70323d",
+    "netDrop": -0.0259,
+    "inconclusive": false,
+    "scenes": 56
+   },
+   {
+    "idx": 5,
+    "kind": "recovery",
+    "label": "Early recovery",
+    "period": "2023",
+    "bps": 3000,
+    "targetBps": 3000,
+    "failBelowBps": 5000,
+    "scoreBps": -4077,
+    "fractionBps": 0,
+    "outcome": "fail",
+    "evidenceHash": "0xabf0cf27c734046aa2d9f445d899c8ec2549fe3e70fe64b34264ed3ba185e35e",
+    "ci95": 0.0782,
+    "confident": true,
+    "scenes": 201
+   },
+   {
+    "idx": 6,
+    "kind": "recovery",
+    "label": "Sustained recovery",
+    "period": "2026",
+    "bps": 3500,
+    "targetBps": 6000,
+    "failBelowBps": 5000,
+    "scoreBps": -359,
+    "fractionBps": 0,
+    "outcome": "not reached",
+    "evidenceHash": "0xa3e9958de3b3cfc7a7c225896f9946905316d6858ffe368341351d8eacab734c",
+    "ci95": 0.0803,
+    "confident": true,
+    "scenes": 172
+   }
+  ],
+  "disturbance": null,
+  "twins": {
+   "method": "mahalanobis-knn, k=10",
+   "covariates": [
+    "preNbr",
+    "preNdvi",
+    "elev",
+    "slope",
+    "northness"
+   ],
+   "dem": "Copernicus DEM GLO-30 (Microsoft Planetary Computer)",
+   "ids": [
+    "r10c10",
+    "r09c10",
+    "r52c70",
+    "r54c73",
+    "r58c71",
+    "r08c10",
+    "r10c12",
+    "r54c72",
+    "r10c13",
+    "r11c14"
+   ],
+   "nbr": {
+    "pre": 0.4055,
+    "post": 0.4544,
+    "2022": 0.43,
+    "2023": 0.4488,
+    "2024": 0.4512,
+    "2025": 0.4498,
+    "2026": 0.4672
+   }
+  },
+  "pulse": [
+   {
+    "q": "2020Q3",
+    "phase": "pre",
+    "nbr": 0.4618,
+    "ctrlNbr": 0.2866,
+    "adj": null
+   },
+   {
+    "q": "2020Q4",
+    "phase": "pre",
+    "nbr": 0.5749,
+    "ctrlNbr": 0.3393,
+    "adj": null
+   },
+   {
+    "q": "2021Q1",
+    "phase": "pre",
+    "nbr": 0.4687,
+    "ctrlNbr": 0.2069,
+    "adj": null
+   },
+   {
+    "q": "2021Q2",
+    "phase": "pre",
+    "nbr": 0.422,
+    "ctrlNbr": 0.2954,
+    "adj": null
+   },
+   {
+    "q": "2021Q3",
+    "phase": "fire",
+    "nbr": 0.1739,
+    "ctrlNbr": 0.2947,
+    "adj": null
+   },
+   {
+    "q": "2021Q4",
+    "phase": "post",
+    "nbr": 0.2085,
+    "ctrlNbr": 0.3244,
+    "adj": 0.1869
+   },
+   {
+    "q": "2022Q1",
+    "phase": "post",
+    "nbr": 0.0037,
+    "ctrlNbr": 0.3195,
+    "adj": -0.7705
+   },
+   {
+    "q": "2022Q2",
+    "phase": "post",
+    "nbr": 0.0039,
+    "ctrlNbr": 0.277,
+    "adj": -0.4298
+   },
+   {
+    "q": "2022Q3",
+    "phase": "post",
+    "nbr": 0.0383,
+    "ctrlNbr": 0.2855,
+    "adj": -0.3228
+   },
+   {
+    "q": "2022Q4",
+    "phase": "post",
+    "nbr": 0.0491,
+    "ctrlNbr": 0.3223,
+    "adj": -0.1768
+   },
+   {
+    "q": "2023Q1",
+    "phase": "post",
+    "nbr": 0.0024,
+    "ctrlNbr": 0.2307,
+    "adj": -0.5024
+   },
+   {
+    "q": "2023Q2",
+    "phase": "post",
+    "nbr": 0.1234,
+    "ctrlNbr": 0.2854,
+    "adj": -0.0326
+   },
+   {
+    "q": "2023Q3",
+    "phase": "post",
+    "nbr": 0.0665,
+    "ctrlNbr": 0.2894,
+    "adj": -0.2468
+   },
+   {
+    "q": "2023Q4",
+    "phase": "post",
+    "nbr": 0.0872,
+    "ctrlNbr": 0.3188,
+    "adj": -0.0806
+   },
+   {
+    "q": "2024Q1",
+    "phase": "post",
+    "nbr": 0.0186,
+    "ctrlNbr": 0.1926,
+    "adj": -0.3358
+   },
+   {
+    "q": "2024Q2",
+    "phase": "post",
+    "nbr": 0.1175,
+    "ctrlNbr": 0.2729,
+    "adj": -0.0087
+   },
+   {
+    "q": "2024Q3",
+    "phase": "post",
+    "nbr": 0.091,
+    "ctrlNbr": 0.2814,
+    "adj": -0.1449
+   },
+   {
+    "q": "2024Q4",
+    "phase": "post",
+    "nbr": 0.1757,
+    "ctrlNbr": 0.3225,
+    "adj": 0.1156
+   },
+   {
+    "q": "2025Q1",
+    "phase": "post",
+    "nbr": 0.0776,
+    "ctrlNbr": 0.2162,
+    "adj": -0.2275
+   },
+   {
+    "q": "2025Q2",
+    "phase": "post",
+    "nbr": 0.2076,
+    "ctrlNbr": 0.2918,
+    "adj": 0.246
+   },
+   {
+    "q": "2025Q3",
+    "phase": "post",
+    "nbr": 0.1615,
+    "ctrlNbr": 0.3023,
+    "adj": 0.0104
+   },
+   {
+    "q": "2025Q4",
+    "phase": "post",
+    "nbr": 0.2218,
+    "ctrlNbr": 0.3495,
+    "adj": 0.1598
+   },
+   {
+    "q": "2026Q1",
+    "phase": "post",
+    "nbr": 0.0984,
+    "ctrlNbr": 0.2375,
+    "adj": -0.229
+   },
+   {
+    "q": "2026Q2",
+    "phase": "post",
+    "nbr": 0.235,
+    "ctrlNbr": 0.3107,
+    "adj": 0.2762
+   },
+   {
+    "q": "2026Q3",
+    "phase": "post",
+    "nbr": 0.1869,
+    "ctrlNbr": 0.32,
+    "adj": 0.0345
+   }
+  ]
+ }
+}

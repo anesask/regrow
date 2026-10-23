@@ -1,0 +1,39 @@
+# On the VPS:  cd deploy && cp .env.example .env && (edit) && docker compose up -d --build
+services:
+  api:
+    build: ../backend
+    env_file: .env
+    environment:
+      CORS_ORIGINS: '["https://${DOMAIN}"]'
+      PUBLIC_URL: https://${DOMAIN}  # certificate metadata and QR links
+    volumes:
+      - api-cache:/app/cache
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ..
+      dockerfile: deploy/web.Dockerfile
+      args:
+        VITE_CHAIN_ID: ${CHAIN_ID}
+        VITE_RPC_URL: ${RPC_URL}
+        VITE_WALLETCONNECT_PROJECT_ID: ${WALLETCONNECT_PROJECT_ID}
+        VITE_PUBLIC_URL: https://${DOMAIN}  # room-card and certificate QR codes, link previews
+    environment:
+      DOMAIN: ${DOMAIN}
+      CADDY_SITE: ${DOMAIN}  # Caddy serves HTTPS itself; compose.traefik.yaml switches to plain HTTP behind Traefik
+      CADDY_WWW: www.${DOMAIN}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on: [api]
+    restart: unless-stopped
+
+volumes:
+  api-cache:
+  caddy-data:
+  caddy-config:

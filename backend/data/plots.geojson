@@ -1,0 +1,697 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.851547,
+       36.840373
+      ],
+      [
+       31.860518,
+       36.840459
+      ],
+      [
+       31.860411,
+       36.847669
+      ],
+      [
+       31.851439,
+       36.847583
+      ],
+      [
+       31.851547,
+       36.840373
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "ctrl-r50c73",
+    "name": "Çiçekoluk control",
+    "kind": "control",
+    "chainId": null,
+    "planType": null,
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": -0.0359,
+     "class": "unburned",
+     "pctByClass": {
+      "unburned": 0.984,
+      "low": 0.016,
+      "moderate-low": 0.0,
+      "moderate-high": 0.001,
+      "high": 0.0
+     }
+    },
+    "controlIds": [],
+    "centroid": [
+     31.855979,
+     36.844021
+    ],
+    "utmBounds": [
+     397600.0,
+     4077780.0,
+     398400.0,
+     4078580.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.640496,
+       37.104954
+      ],
+      [
+       31.649497,
+       37.105056
+      ],
+      [
+       31.649369,
+       37.112266
+      ],
+      [
+       31.640367,
+       37.112163
+      ],
+      [
+       31.640496,
+       37.104954
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "ctrl-r13c50",
+    "name": "İbradı control",
+    "kind": "control",
+    "chainId": null,
+    "planType": null,
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": -0.0125,
+     "class": "unburned",
+     "pctByClass": {
+      "unburned": 0.986,
+      "low": 0.014,
+      "moderate-low": 0.0,
+      "moderate-high": 0.0,
+      "high": 0.0
+     }
+    },
+    "controlIds": [],
+    "centroid": [
+     31.644932,
+     37.10861
+    ],
+    "utmBounds": [
+     379200.0,
+     4107380.0,
+     380000.0,
+     4108180.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.570519,
+       36.995968
+      ],
+      [
+       31.579507,
+       36.996075
+      ],
+      [
+       31.579373,
+       37.003285
+      ],
+      [
+       31.570384,
+       37.003177
+      ],
+      [
+       31.570519,
+       36.995968
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "ctrl-r28c42",
+    "name": "İbradı control 2",
+    "kind": "control",
+    "chainId": null,
+    "planType": null,
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": -0.0031,
+     "class": "unburned",
+     "pctByClass": {
+      "unburned": 0.994,
+      "low": 0.005,
+      "moderate-low": 0.001,
+      "moderate-high": 0.0,
+      "high": 0.0
+     }
+    },
+    "controlIds": [],
+    "centroid": [
+     31.574946,
+     36.999626
+    ],
+    "utmBounds": [
+     372800.0,
+     4095380.0,
+     373600.0,
+     4096180.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.480355,
+       37.009269
+      ],
+      [
+       31.489344,
+       37.009384
+      ],
+      [
+       31.489202,
+       37.016593
+      ],
+      [
+       31.480212,
+       37.016478
+      ],
+      [
+       31.480355,
+       37.009269
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "plot-r26c32",
+    "name": "Manavgat slope",
+    "kind": "plot",
+    "chainId": 0,
+    "planType": "NATURAL_REGEN",
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": 0.2706,
+     "class": "moderate-low",
+     "pctByClass": {
+      "unburned": 0.104,
+      "low": 0.432,
+      "moderate-low": 0.363,
+      "moderate-high": 0.08,
+      "high": 0.021
+     }
+    },
+    "controlIds": [
+     "ctrl-r50c73",
+     "ctrl-r13c50",
+     "ctrl-r28c42"
+    ],
+    "centroid": [
+     31.484778,
+     37.012931
+    ],
+    "utmBounds": [
+     364800.0,
+     4096980.0,
+     365600.0,
+     4097780.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.383765,
+       36.899831
+      ],
+      [
+       31.392741,
+       36.899952
+      ],
+      [
+       31.39259,
+       36.907161
+      ],
+      [
+       31.383613,
+       36.907039
+      ],
+      [
+       31.383765,
+       36.899831
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "plot-r41c21",
+    "name": "Salur slope",
+    "kind": "plot",
+    "chainId": 1,
+    "planType": "NATURAL_REGEN",
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": 0.7584,
+     "class": "high",
+     "pctByClass": {
+      "unburned": 0.0,
+      "low": 0.043,
+      "moderate-low": 0.077,
+      "moderate-high": 0.145,
+      "high": 0.735
+     }
+    },
+    "controlIds": [
+     "ctrl-r50c73",
+     "ctrl-r13c50",
+     "ctrl-r28c42"
+    ],
+    "centroid": [
+     31.388177,
+     36.903496
+    ],
+    "utmBounds": [
+     356000.0,
+     4084980.0,
+     356800.0,
+     4085780.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.556756,
+       36.772259
+      ],
+      [
+       31.565718,
+       36.772367
+      ],
+      [
+       31.565584,
+       36.779577
+      ],
+      [
+       31.556621,
+       36.779468
+      ],
+      [
+       31.556756,
+       36.772259
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "plot-r59c40",
+    "name": "Hacıali slope",
+    "kind": "plot",
+    "chainId": 2,
+    "planType": "NATURAL_REGEN",
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": 0.5317,
+     "class": "moderate-high",
+     "pctByClass": {
+      "unburned": 0.089,
+      "low": 0.177,
+      "moderate-low": 0.169,
+      "moderate-high": 0.172,
+      "high": 0.393
+     }
+    },
+    "controlIds": [
+     "ctrl-r50c73",
+     "ctrl-r13c50",
+     "ctrl-r28c42"
+    ],
+    "centroid": [
+     31.56117,
+     36.775918
+    ],
+    "utmBounds": [
+     371200.0,
+     4070580.0,
+     372000.0,
+     4071380.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.435706,
+       36.994267
+      ],
+      [
+       31.444693,
+       36.994385
+      ],
+      [
+       31.444546,
+       37.001594
+      ],
+      [
+       31.435558,
+       37.001476
+      ],
+      [
+       31.435706,
+       36.994267
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "plot-r28c27",
+    "name": "Manavgat slope 2",
+    "kind": "plot",
+    "chainId": 3,
+    "planType": "NATURAL_REGEN",
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": 0.5085,
+     "class": "moderate-high",
+     "pctByClass": {
+      "unburned": 0.04,
+      "low": 0.155,
+      "moderate-low": 0.269,
+      "moderate-high": 0.247,
+      "high": 0.289
+     }
+    },
+    "controlIds": [
+     "ctrl-r50c73",
+     "ctrl-r13c50",
+     "ctrl-r28c42"
+    ],
+    "centroid": [
+     31.440126,
+     36.997931
+    ],
+    "utmBounds": [
+     360800.0,
+     4095380.0,
+     361600.0,
+     4096180.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.518548,
+       36.894377
+      ],
+      [
+       31.527524,
+       36.894489
+      ],
+      [
+       31.527385,
+       36.901698
+      ],
+      [
+       31.518409,
+       36.901586
+      ],
+      [
+       31.518548,
+       36.894377
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "plot-r42c36",
+    "name": "Güzelyalı slope",
+    "kind": "plot",
+    "chainId": 4,
+    "planType": "NATURAL_REGEN",
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": 0.4169,
+     "class": "moderate-low",
+     "pctByClass": {
+      "unburned": 0.027,
+      "low": 0.199,
+      "moderate-low": 0.359,
+      "moderate-high": 0.317,
+      "high": 0.098
+     }
+    },
+    "controlIds": [
+     "ctrl-r50c73",
+     "ctrl-r13c50",
+     "ctrl-r28c42"
+    ],
+    "centroid": [
+     31.522967,
+     36.898038
+    ],
+    "utmBounds": [
+     368000.0,
+     4084180.0,
+     368800.0,
+     4084980.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.492047,
+       36.872411
+      ],
+      [
+       31.50102,
+       36.872524
+      ],
+      [
+       31.500879,
+       36.879733
+      ],
+      [
+       31.491905,
+       36.87962
+      ],
+      [
+       31.492047,
+       36.872411
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "plot-r45c33",
+    "name": "Iğraşlar slope",
+    "kind": "plot",
+    "chainId": 5,
+    "planType": "NATURAL_REGEN",
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": 0.609,
+     "class": "moderate-high",
+     "pctByClass": {
+      "unburned": 0.005,
+      "low": 0.082,
+      "moderate-low": 0.182,
+      "moderate-high": 0.293,
+      "high": 0.438
+     }
+    },
+    "controlIds": [
+     "ctrl-r50c73",
+     "ctrl-r13c50",
+     "ctrl-r28c42"
+    ],
+    "centroid": [
+     31.496462,
+     36.876072
+    ],
+    "utmBounds": [
+     365600.0,
+     4081780.0,
+     366400.0,
+     4082580.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.426124,
+       37.022984
+      ],
+      [
+       31.435115,
+       37.023102
+      ],
+      [
+       31.434967,
+       37.030311
+      ],
+      [
+       31.425975,
+       37.030192
+      ],
+      [
+       31.426124,
+       37.022984
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "plot-r24c26",
+    "name": "Sırtköy slope",
+    "kind": "plot",
+    "chainId": 6,
+    "planType": "NATURAL_REGEN",
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": 0.298,
+     "class": "moderate-low",
+     "pctByClass": {
+      "unburned": 0.029,
+      "low": 0.422,
+      "moderate-low": 0.453,
+      "moderate-high": 0.071,
+      "high": 0.024
+     }
+    },
+    "controlIds": [
+     "ctrl-r50c73",
+     "ctrl-r13c50",
+     "ctrl-r28c42"
+    ],
+    "centroid": [
+     31.430545,
+     37.026648
+    ],
+    "utmBounds": [
+     360000.0,
+     4098580.0,
+     360800.0,
+     4099380.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.389858,
+       37.036918
+      ],
+      [
+       31.39885,
+       37.03704
+      ],
+      [
+       31.398699,
+       37.044249
+      ],
+      [
+       31.389706,
+       37.044127
+      ],
+      [
+       31.389858,
+       37.036918
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "plot-r22c22",
+    "name": "Kızıldağ slope",
+    "kind": "plot",
+    "chainId": 7,
+    "planType": "NATURAL_REGEN",
+    "areaHa": 64.0,
+    "severity": {
+     "meanDnbr": 0.2861,
+     "class": "moderate-low",
+     "pctByClass": {
+      "unburned": 0.125,
+      "low": 0.447,
+      "moderate-low": 0.268,
+      "moderate-high": 0.096,
+      "high": 0.063
+     }
+    },
+    "controlIds": [
+     "ctrl-r50c73",
+     "ctrl-r13c50",
+     "ctrl-r28c42"
+    ],
+    "centroid": [
+     31.394278,
+     37.040584
+    ],
+    "utmBounds": [
+     356800.0,
+     4100180.0,
+     357600.0,
+     4100980.0
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,445 @@
+{
+ "product": "Hansen/UMD Global Forest Change GFC-2025-v1.13 (30 m, loss to 2025)",
+ "treeCoverThreshold": 30,
+ "fire": {
+  "gfcLoss2021Ha": 14876,
+  "gfcLoss2021InsidePerimeter": 0.938,
+  "perimeterForestLost2021": 0.4,
+  "bySeverity": {
+   "unburned": {
+    "forestHa": 56053,
+    "lostIn2021": 0.009
+   },
+   "low": {
+    "forestHa": 4024,
+    "lostIn2021": 0.035
+   },
+   "moderate-low": {
+    "forestHa": 4158,
+    "lostIn2021": 0.188
+   },
+   "moderate-high": {
+    "forestHa": 3189,
+    "lostIn2021": 0.489
+   },
+   "high": {
+    "forestHa": 4468,
+    "lostIn2021": 0.839
+   }
+  }
+ },
+ "detector": {
+  "cells": 1760,
+  "clearedCells": 58,
+  "clearedDefinition": "GFC loss 2022-2025 covers >= 10% of the 64 ha cell",
+  "rocAucMaxDrop": 0.954,
+  "flagRule": "year-over-year NBR drop > 0.15 beyond matched controls",
+  "flagged": 6,
+  "precision": 0.5,
+  "recall": 0.052,
+  "recallBySize": {
+   "10-25%": {
+    "cells": 46,
+    "recall": 0.0
+   },
+   "25-50%": {
+    "cells": 10,
+    "recall": 0.2
+   },
+   ">=50%": {
+    "cells": 2,
+    "recall": 0.5
+   }
+  },
+  "roc": [
+   [
+    0.0,
+    0.0
+   ],
+   [
+    0.001,
+    0.034
+   ],
+   [
+    0.002,
+    0.121
+   ],
+   [
+    0.003,
+    0.241
+   ],
+   [
+    0.005,
+    0.397
+   ],
+   [
+    0.007,
+    0.448
+   ],
+   [
+    0.009,
+    0.5
+   ],
+   [
+    0.012,
+    0.534
+   ],
+   [
+    0.014,
+    0.569
+   ],
+   [
+    0.015,
+    0.621
+   ],
+   [
+    0.021,
+    0.655
+   ],
+   [
+    0.026,
+    0.672
+   ],
+   [
+    0.033,
+    0.69
+   ],
+   [
+    0.045,
+    0.724
+   ],
+   [
+    0.047,
+    0.759
+   ],
+   [
+    0.048,
+    0.793
+   ],
+   [
+    0.061,
+    0.81
+   ],
+   [
+    0.123,
+    0.845
+   ],
+   [
+    0.133,
+    0.862
+   ],
+   [
+    0.142,
+    0.862
+   ],
+   [
+    0.188,
+    0.897
+   ],
+   [
+    0.192,
+    0.897
+   ],
+   [
+    0.212,
+    0.897
+   ],
+   [
+    0.232,
+    0.931
+   ],
+   [
+    0.233,
+    0.966
+   ],
+   [
+    0.277,
+    0.966
+   ],
+   [
+    0.281,
+    0.966
+   ],
+   [
+    0.295,
+    0.983
+   ],
+   [
+    0.306,
+    0.983
+   ],
+   [
+    0.316,
+    0.983
+   ],
+   [
+    0.33,
+    0.983
+   ],
+   [
+    0.335,
+    0.983
+   ],
+   [
+    0.36,
+    1.0
+   ],
+   [
+    0.373,
+    1.0
+   ],
+   [
+    0.411,
+    1.0
+   ],
+   [
+    0.426,
+    1.0
+   ],
+   [
+    0.442,
+    1.0
+   ],
+   [
+    0.489,
+    1.0
+   ],
+   [
+    0.512,
+    1.0
+   ],
+   [
+    0.531,
+    1.0
+   ],
+   [
+    0.542,
+    1.0
+   ],
+   [
+    0.561,
+    1.0
+   ],
+   [
+    0.569,
+    1.0
+   ],
+   [
+    0.596,
+    1.0
+   ],
+   [
+    0.614,
+    1.0
+   ],
+   [
+    0.62,
+    1.0
+   ],
+   [
+    0.672,
+    1.0
+   ],
+   [
+    0.704,
+    1.0
+   ],
+   [
+    0.73,
+    1.0
+   ],
+   [
+    0.761,
+    1.0
+   ],
+   [
+    0.794,
+    1.0
+   ],
+   [
+    0.797,
+    1.0
+   ],
+   [
+    0.81,
+    1.0
+   ],
+   [
+    0.832,
+    1.0
+   ],
+   [
+    0.85,
+    1.0
+   ],
+   [
+    0.862,
+    1.0
+   ],
+   [
+    0.895,
+    1.0
+   ],
+   [
+    0.907,
+    1.0
+   ],
+   [
+    0.95,
+    1.0
+   ],
+   [
+    1.0,
+    1.0
+   ]
+  ],
+  "thresholds": [
+   {
+    "threshold": 0.05,
+    "flagged": 102,
+    "precision": 0.412,
+    "recall": 0.724,
+    "falseFlagRate": 0.0353
+   },
+   {
+    "threshold": 0.075,
+    "flagged": 32,
+    "precision": 0.719,
+    "recall": 0.397,
+    "falseFlagRate": 0.0053
+   },
+   {
+    "threshold": 0.1,
+    "flagged": 19,
+    "precision": 0.737,
+    "recall": 0.241,
+    "falseFlagRate": 0.0029
+   },
+   {
+    "threshold": 0.125,
+    "flagged": 14,
+    "precision": 0.643,
+    "recall": 0.155,
+    "falseFlagRate": 0.0029
+   },
+   {
+    "threshold": 0.15,
+    "flagged": 6,
+    "precision": 0.5,
+    "recall": 0.052,
+    "falseFlagRate": 0.0018
+   },
+   {
+    "threshold": 0.2,
+    "flagged": 4,
+    "precision": 0.5,
+    "recall": 0.034,
+    "falseFlagRate": 0.0012
+   }
+  ],
+  "flagYearMatchesGfc": 1.0,
+  "falseFlagsOnUntouchedForest": 2,
+  "flaggedCells": [
+   {
+    "id": "r06c10",
+    "flagYear": "2025",
+    "maxDrop": 0.153,
+    "gfcLoss2022_2025": 0.422
+   },
+   {
+    "id": "r22c56",
+    "flagYear": "2026",
+    "maxDrop": 0.173,
+    "gfcLoss2022_2025": 0.0
+   },
+   {
+    "id": "r26c10",
+    "flagYear": "2025",
+    "maxDrop": 0.338,
+    "gfcLoss2022_2025": 0.0
+   },
+   {
+    "id": "r27c10",
+    "flagYear": "2025",
+    "maxDrop": 0.251,
+    "gfcLoss2022_2025": 0.015
+   },
+   {
+    "id": "r27c13",
+    "flagYear": "2025",
+    "maxDrop": 0.228,
+    "gfcLoss2022_2025": 0.466
+   },
+   {
+    "id": "r47c69",
+    "flagYear": "2024",
+    "maxDrop": 0.202,
+    "gfcLoss2022_2025": 0.827
+   }
+  ]
+ },
+ "survivors": {
+  "cells": 534,
+  "checkinDamaged": 71,
+  "meanLaterLossHa": {
+   "checkinDamaged": 20.89,
+   "passed": 5.71
+  },
+  "shareWithLaterLoss1ha": {
+   "checkinDamaged": 0.972,
+   "passed": 0.737
+  },
+  "rocAuc": 0.879,
+  "note": "GFC loss in 2022-2025 of pixels still forest after 2021; may include delayed fire mortality as well as logging",
+  "bySeverityOutcome": [
+   {
+    "severity": "moderate-low",
+    "outcome": "restored",
+    "cells": 61,
+    "meanLaterLossHa": 3.8
+   },
+   {
+    "severity": "moderate-low",
+    "outcome": "partial",
+    "cells": 67,
+    "meanLaterLossHa": 8.0
+   },
+   {
+    "severity": "moderate-low",
+    "outcome": "failed",
+    "cells": 76,
+    "meanLaterLossHa": 19.1
+   },
+   {
+    "severity": "moderate-high",
+    "outcome": "restored",
+    "cells": 164,
+    "meanLaterLossHa": 4.7
+   },
+   {
+    "severity": "moderate-high",
+    "outcome": "partial",
+    "cells": 66,
+    "meanLaterLossHa": 9.7
+   },
+   {
+    "severity": "moderate-high",
+    "outcome": "failed",
+    "cells": 9,
+    "meanLaterLossHa": 24.1
+   },
+   {
+    "severity": "high",
+    "outcome": "restored",
+    "cells": 88,
+    "meanLaterLossHa": 2.9
+   },
+   {
+    "severity": "high",
+    "outcome": "partial",
+    "cells": 3,
+    "meanLaterLossHa": 6.0
+   }
+  ]
+ }
+}
